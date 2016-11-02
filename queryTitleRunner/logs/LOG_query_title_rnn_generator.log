@@ -1,0 +1,1452 @@
+Reading model parameters from /home/ubuntu/data/queryClickPairs/checkpoints/translate.ckpt-34
+eval: perplexity 819.29
+eval: perplexity 1313.67
+eval: perplexity 1055.98
+global step 54 learning rate 0.4614 step-time 0.66 perplexity 1.46
+results: 
+[1 6 blade                ] [1 6 scale blade wesley snipes male actio] [ford xperia xperia xperia xperia xperia ]
+[1 6 bjd clothes          ] [dollmore 1 6bjd yosd doll clothes dear d] [3m 3m hood hood hood hood hood hood ford]
+[1 6 bear action figure   ] [pop toys 1 6 action figure man vs wild e] [golf hood hood ladies ladies ladies ladi]
+[1 6 blade                ] [ instock blade 2 custom clothing kit set] [ford xperia xperia xperia xperia xperia ]
+[1 6 blade                ] [hot toys true type 38 advanced version 1] [ford xperia xperia xperia xperia xperia ]
+eval: perplexity 2313.77
+eval: perplexity 1700.87
+eval: perplexity 989.28
+eval: perplexity 569.04
+global step 74 learning rate 0.4344 step-time 0.66 perplexity 1.39
+results: 
+[1 6 female               ] [phicen custom ooak action figure 1 6 sca] [vauxhall vauxhall vauxhall dog dog dog d]
+[1 6 female               ] [pop toys f11 modern women female leather] [vauxhall vauxhall vauxhall dog dog dog d]
+[1 6 female               ] [1 6 scale blue leather coat jeans red sh] [vauxhall vauxhall vauxhall dog dog dog d]
+[1 6 female               ] [1 6th scale modular art ma012 emma watso] [vauxhall vauxhall vauxhall dog dog dog d]
+[1 6 female               ] [1 6 scale blue leather coat jeans red sh] [vauxhall vauxhall vauxhall dog dog dog d]
+eval: perplexity 496.96
+eval: perplexity 732.01
+eval: perplexity 686.65
+eval: perplexity 537.32
+global step 94 learning rate 0.4215 step-time 0.67 perplexity 1.41
+results: 
+[2 1 8 exhaust pipe       ] [1 3 4 od to 2 1 8 id universal exhaust c] [audi edge edge edge edge edge edge edge ]
+[2 gang wall socket       ] [2 gang wall socket dual usb port outlets] [audi audi audi audi audi audi audi audi ]
+[2 5 8 gauge pod          ] [2 52mm abs triple hole dash gauge pod mo] [audi edge edge edge edge edge edge edge ]
+[1xtreme ps1              ] [1xtreme playstation game complete tested] [audi audi audi audi audi audi audi audi ]
+[2 gang wall socket       ] [universial white wall faceplate 2 gang p] [audi audi audi audi audi audi audi audi ]
+eval: perplexity 470.52
+eval: perplexity 841.79
+eval: perplexity 580.15
+eval: perplexity 405.50
+global step 114 learning rate 0.3968 step-time 0.66 perplexity 1.38
+results: 
+[2 person tent            ] [outdoor waterproof 2 person foldable ten] [bag bag bag edge edge edge edge edge edg]
+[2 person tent            ] [camping tent 8 person instant waterproof] [bag bag bag edge edge edge edge edge edg]
+[2 person tent            ] [ex erected vango banshee 200 2 person te] [bag bag bag edge edge edge edge edge edg]
+[2 person tent            ] [camo outdoor camping waterproof 2 person] [bag bag bag edge edge edge edge edge edg]
+[2 person tent            ] [waterproof 2 4 people automatic instant ] [bag bag bag edge edge edge edge edge edg]
+eval: perplexity 345.05
+eval: perplexity 702.57
+eval: perplexity 509.42
+eval: perplexity 1141.23
+global step 134 learning rate 0.3812 step-time 0.67 perplexity 1.16
+results: 
+[2 person tent            ] [big agnes wyoming trail sl2 tent 2 perso] [bag bag edge edge edge edge edge edge ed]
+[2 person tent            ] [summit 2 person dome tent blue ideal for] [bag bag edge edge edge edge edge edge ed]
+[2 person tent            ] [ozark trail 8 person 2 room instant doub] [bag bag edge edge edge edge edge edge ed]
+[2 person tent            ] [2 3 person camping dome tent double laye] [bag bag edge edge edge edge edge edge ed]
+[2 person tent            ] [karrimor alpha lightweight 2 person back] [bag bag edge edge edge edge edge edge ed]
+eval: perplexity 733.45
+eval: perplexity 447.81
+eval: perplexity 303.85
+eval: perplexity 544.33
+global step 154 learning rate 0.3589 step-time 0.67 perplexity 1.34
+results: 
+[2x converter             ] [canon fd 2x b converter comes with caps ] [edge edge edge edge edge bag bag bag bag]
+[2x converter             ] [canon ef 2x mark ii extender teleconvert] [edge edge edge edge edge bag bag bag bag]
+[2x digital led cube clock] [led digital alarm clock wireless bluetoo] [edge edge edge edge edge edge edge bag b]
+[2x nike air t shirt      ] [nike mens classic crew neck basic brande] [audi edge edge bag bag bag bag bag bag b]
+[2x converter             ] [2x nikon n afs n fit pro cambron tele co] [edge edge edge edge edge bag bag bag bag]
+eval: perplexity 749.52
+eval: perplexity 305.21
+eval: perplexity 704.27
+eval: perplexity 596.37
+global step 174 learning rate 0.3345 step-time 0.66 perplexity 1.33
+results: 
+[3 ninjas dvd             ] [3 ninjas knuckle up                     ] [bag edge edge edge edge edge bag bag bag]
+[3 ninjas dvd             ] [3 ninjas kick back                      ] [bag edge edge edge edge edge bag bag bag]
+[3 ninjas dvd             ] [3 ninjas dvd 2003 chad power            ] [bag edge edge edge edge edge bag bag bag]
+[3 ninjas dvd             ] [3 ninjas knuckle up                     ] [bag edge edge edge edge edge bag bag bag]
+[3 ninjas dvd             ] [3 ninjas high noon at mega mountain kic ] [bag edge edge edge edge edge bag bag bag]
+eval: perplexity 450.45
+eval: perplexity 297.01
+eval: perplexity 259.45
+eval: perplexity 269.43
+global step 194 learning rate 0.3025 step-time 0.66 perplexity 1.33
+results: 
+[3 6                      ] [ted baker next converse firetrap 3 6 mon] [bag bag bag bag bag bag bag bag bag bag ]
+[3 4 boys tracksuits      ] [boys girls childrens school pe fleece jo] [bag bag bag bag bag bag bag bag bag bag ]
+[3 5mm jack sma           ] [3.5mm jack plug to f type female antenna] [bag bag bag bag bag bag bag bag bag bag ]
+[3 6                      ] [baby girl uv swimsuit 3 6 months m 26s  ] [bag bag bag bag bag bag bag bag bag bag ]
+[3 4 years boy tracksuit  ] [minion tracksuit jogging set outfit desp] [bag bag bag bag bag bag bag bag bag bag ]
+eval: perplexity 564.27
+eval: perplexity 347.35
+eval: perplexity 422.40
+eval: perplexity 738.37
+global step 214 learning rate 0.2820 step-time 0.66 perplexity 1.32
+results: 
+[3d comforte              ] [red rose black 3d duvet comforter king s] [edge edge edge edge edge edge edge bag b]
+[3d flower wallpaper      ] [3d sitting room the bedroom embossed tv ] [edge edge edge edge edge edge bag bag ba]
+[3d dvd blu ray           ] [the hobbit extended edition 3d motion pi] [bag bag edge edge edge edge edge bag bag]
+[3d fiber lashes moodstruc] [younique moodstruck 3d fiber lash mascar] [edge edge edge edge edge edge edge bag b]
+[3d comforte              ] [red rose black 3d duvet comforter king s] [edge edge edge edge edge edge edge bag b]
+eval: perplexity 629.62
+eval: perplexity 1594.35
+eval: perplexity 928.11
+eval: perplexity 661.33
+global step 234 learning rate 0.2708 step-time 0.66 perplexity 1.35
+results: 
+[3x9 rifle scope illuminat] [neewer 3x 9x 42mm rifle scope glass etch] [bag bag bag bag bag bag bag bag bag bag ]
+[3x5 baggies              ] [100 3 x5 zip lock bags clear 2mil poly b] [bag bag bag bag bag bag bag bag bag bag ]
+[3x3 8ft fence posts      ] [3 x 3 75x75mm fence posts               ] [bag bag bag bag bag bag bag bag bag bag ]
+[3x5 weatherproof rug     ] [shipped free wool hand knotted persian k] [bag bag bag bag bag bag bag bag bag bag ]
+[3x5 nylon 3 flag         ] [3x5 ft embroidered nylon betsy ross nybe] [bag bag bag bag bag bag bag bag bag bag ]
+eval: perplexity 605.88
+eval: perplexity 336.91
+eval: perplexity 187.44
+eval: perplexity 309.43
+global step 254 learning rate 0.2550 step-time 0.67 perplexity 1.35
+results: 
+[4in duct fan             ] [vortex vtx400 4 inline powerfan fan duct] [edge edge edge edge bag bag bag bag bag ]
+[4gb memory card          ] [genuine sandisk 4gb sdhc memory card fas] [edge edge edge edge edge edge edge edge ]
+[4in duct fan             ] [broan 655 heater and heater bath fan wit] [edge edge edge edge bag bag bag bag bag ]
+[4gb memory card          ] [genuine kingston technology micro sdhc 4] [edge edge edge edge edge edge edge edge ]
+[4gb memory card          ] [genuine kingston technology micro sdhc 4] [edge edge edge edge edge edge edge edge ]
+eval: perplexity 339.41
+eval: perplexity 324.35
+eval: perplexity 780.27
+eval: perplexity 506.19
+global step 274 learning rate 0.2499 step-time 0.66 perplexity 1.36
+results: 
+[4x4 wheels               ] [x4 245 75r16 kumho kl71 4x4 at tyres on ] [edge edge edge bag bag bag bag bag bag b]
+[4x4 wheels               ] [xd series 852 4x4 alloy wheels rim mags ] [edge edge edge bag bag bag bag bag bag b]
+[4x4 wheels               ] [off road 4x4 weller wheels and tyres avo] [edge edge edge bag bag bag bag bag bag b]
+[4x4 wheels               ] [4x4 alloy wheels                        ] [edge edge edge bag bag bag bag bag bag b]
+[4x4 wheels               ] [mitsubishi toyota nissan isuzu wheels si] [edge edge edge bag bag bag bag bag bag b]
+eval: perplexity 381.18
+eval: perplexity 253.77
+eval: perplexity 384.81
+eval: perplexity 622.69
+global step 294 learning rate 0.2425 step-time 0.66 perplexity 1.35
+results: 
+[5v 2a                    ] [5v 2a eu us plug usb iphone             ] [edge edge bag bag bag bag bag bag bag ba]
+[5v 2a                    ] [10w ac 100v 220v dc 5v 2a adjust univers] [edge edge bag bag bag bag bag bag bag ba]
+[5th august caravan       ] [caravan holiday fri 5th mon 8th aug     ] [edge edge edge edge bag bag bag bag bag ]
+[5th birthday invites     ] [personalised 1st 2nd 3rd 4th 5th 6th 7th] [bag bag bag bag bag bag bag bag bag bag ]
+[5th august caravan       ] [caravan holiday fri 5th mon 8th aug     ] [edge edge edge edge bag bag bag bag bag ]
+eval: perplexity 779.74
+eval: perplexity 366.11
+eval: perplexity 222.47
+eval: perplexity 243.78
+global step 314 learning rate 0.2329 step-time 0.67 perplexity 1.26
+results: 
+[6ah6 vacuum tube         ] [5 nos 6ah6wa vacuum tube jan vintage ele] [edge edge edge bag bag bag bag bag bag b]
+[6sn7 gta                 ] [nos date matched pair sylvania usa 6sn7g] [edge edge edge bag bag bag bag bag bag b]
+[6bhp outboard engine     ] [johnson 6hp outboard motor boat engine f] [bag bag bag bag bag bag bag bag bag bag ]
+[6bhp outboard engine     ] [6.5hp 2 stroke outboard engine          ] [bag bag bag bag bag bag bag bag bag bag ]
+[6eu7 tubes               ] [6eu7 rca usa tubes valves nos           ] [bag bag bag bag bag bag bag bag bag bag ]
+eval: perplexity 1478.08
+eval: perplexity 223.10
+eval: perplexity 1970.79
+eval: perplexity 441.76
+global step 334 learning rate 0.2238 step-time 0.67 perplexity 1.31
+results: 
+[7 speed cassette         ] [shimano 92 cs hg70 7 speed cassette 13 2] [edge edge edge bag bag bag bag bag bag b]
+[7 speed cassette         ] [new shimano mf tz31 cassette freewheel 7] [edge edge edge bag bag bag bag bag bag b]
+[7 speed cassette         ] [shimano 7 speed cassette cs hg40 12 28t ] [edge edge edge bag bag bag bag bag bag b]
+[7 speed cassette         ] [new sram pg 730 12 32 cassette 7 speed m] [edge edge edge bag bag bag bag bag bag b]
+[7 speed cassette         ] [sram pg 730 12 32 7 speed powerglide ii ] [edge edge edge bag bag bag bag bag bag b]
+eval: perplexity 173.25
+eval: perplexity 269.55
+eval: perplexity 261.60
+eval: perplexity 253.42
+global step 354 learning rate 0.2149 step-time 0.67 perplexity 1.35
+results: 
+[8 pcs metal hook knit    ] [8pcs bamboo handheld metal hook knit cro] [edge edge edge bag bag bag bag bag bag b]
+[8 soles                  ] [pgnum potosi bolivia 8 soles 1850 fm ngc] [edge edge bag bag bag bag bag bag bag ba]
+[8 speed revo shifter     ] [new shimano tourney rs45 3x8 speed shift] [bag bag bag bag bag bag bag bag bag bag ]
+[8 soles                  ] [antique 1840 8 soles 8s bolivia republic] [edge edge bag bag bag bag bag bag bag ba]
+[8 piece micrometer tubula] [tumico tubular inside large micrometer s] [edge bag bag bag bag bag bag bag bag bag]
+eval: perplexity 367.27
+eval: perplexity 267.73
+eval: perplexity 387.72
+eval: perplexity 586.04
+global step 374 learning rate 0.2065 step-time 0.66 perplexity 1.31
+results: 
+[9mm baroque              ] [7 9mm white freshwater cultured baroque ] [bag bag bag bag bag bag bag bag bag bag ]
+[9k gold spike            ] [n9 exaggeration pave rivet spike pendant] [edge edge edge edge edge bag bag bag bag]
+[9mm box                  ] [two 38 9mm plastic ammo boxes 100 rd eac] [bag bag bag bag bag bag bag bag bag bag ]
+[9kt                      ] [omega geneve 9 kt gold gents wristwatch ] [edge edge bag bag bag bag bag bag bag ba]
+[9kt                      ] [9kt rope braclet                        ] [edge edge bag bag bag bag bag bag bag ba]
+eval: perplexity 288.17
+eval: perplexity 691.28
+eval: perplexity 144.34
+eval: perplexity 508.88
+global step 394 learning rate 0.1964 step-time 0.66 perplexity 1.33
+results: 
+[adhesive belt clip       ] [cokin filter holder adhesive belt clip n] [edge edge edge edge bag bag bag bag bag ]
+[adidas essentials 3 strip] [adidas essentials 3 stripes pants size t] [bag bag bag bag bag bag bag bag bag bag ]
+[ad d d d role aids       ] [mayfair games 702 ad d role aids dark fo] [audi audi audi bag bag bag bag bag bag b]
+[adidas freefootball janei] [adidas indoor soccer shoes brazil freefo] [audi audi audi audi audi audi audi audi ]
+[ad2 xhr                  ] [siemens ad2 xhr duct smoke detector 500 ] [audi audi audi audi audi audi audi audi ]
+eval: perplexity 256.00
+eval: perplexity 360.65
+eval: perplexity 424.69
+eval: perplexity 123.59
+global step 414 learning rate 0.1867 step-time 0.67 perplexity 1.31
+results: 
+[abhorsen                 ] [new the abhorsen trilogy 3 volume boxed ] [audi audi audi audi audi audi bag bag ba]
+[abel hybrid hemostats    ] [abel hybrid hemostat in deep green      ] [audi audi audi audi audi audi audi audi ]
+[accept all areas worldwid] [accept all areas worldwide cd japan rare] [audi audi audi audi audi audi audi audi ]
+[abdominal belt for weight] [abdominal toning belt electric abs waist] [audi audi audi bag bag bag bag bag bag b]
+[abercrombie shirt xl new ] [abercromie fitch xl x large men s shirt ] [bag bag bag bag bag bag bag bag bag bag ]
+eval: perplexity 176.51
+eval: perplexity 306.23
+eval: perplexity 357.12
+eval: perplexity 615.85
+global step 434 learning rate 0.1794 step-time 0.66 perplexity 1.37
+results: 
+[alumni ink tom brady     ] [2015 contenders draft picks tom brady 54] [audi bag bag bag bag bag bag bag bag bag]
+[ambig hugo peacoat       ] [ambig mens the hugo peacoat fleece jacke] [audi audi audi audi audi audi audi audi ]
+[ambiano panini grill     ] [ambiano reversible grill griddle        ] [bag bag bag bag bag bag bag bag bag bag ]
+[ambulance light          ] [vintage ambulance light                 ] [bag bag bag bag bag bag bag bag bag bag ]
+[alumni ink tom brady     ] [2015 contenders draft picks alumni ink t] [audi bag bag bag bag bag bag bag bag bag]
+eval: perplexity 267.25
+eval: perplexity 214.00
+eval: perplexity 260.51
+eval: perplexity 288.75
+global step 454 learning rate 0.1672 step-time 0.66 perplexity 1.26
+results: 
+[apple magic mouse 2      ] [new apple magic mouse 2 mla02ll a       ] [bag bag bag bag bag bag bag bag bag bag ]
+[apple magic mouse 2      ] [genuine apple magic mouse 2 mla02ll a a1] [bag bag bag bag bag bag bag bag bag bag ]
+[apple magic mouse 2      ] [apple magic mouse 2 mla02ll a white     ] [bag bag bag bag bag bag bag bag bag bag ]
+[apple magic mouse 2      ] [apple magic mouse 2 brand new           ] [bag bag bag bag bag bag bag bag bag bag ]
+[apple magic mouse 2      ] [new sealed genuine apple magic mouse 2 m] [bag bag bag bag bag bag bag bag bag bag ]
+eval: perplexity 147.23
+eval: perplexity 284.58
+eval: perplexity 882.80
+eval: perplexity 549.36
+global step 474 learning rate 0.1606 step-time 0.67 perplexity 1.30
+results: 
+[audi s6                  ] [audi s6 avant quattro auto              ] [bag bag bag bag bag bag bag bag bag bag ]
+[audio cables             ] [25ft 3.5mm aux auxiliary cord male to ma] [bag bag bag bag bag bag bag bag bag bag ]
+[audi seat covers         ] [2 black front vest t shirt car seat cove] [bag bag bag bag bag bag bag bag bag bag ]
+[audi tt salvage          ] [2015 65 reg audi tt 2.0tdi ultra diesel ] [bag bag bag bag bag bag bag bag bag bag ]
+[audio quality solder     ] [audio grade oyaide solder 100g roll worl] [bag bag bag bag bag bag bag bag bag bag ]
+eval: perplexity 953.73
+eval: perplexity 183.72
+eval: perplexity 331.82
+eval: perplexity 259.31
+global step 494 learning rate 0.1512 step-time 0.66 perplexity 1.25
+results: 
+[bikini                   ] [sexy women bikini set bandage push up pa] [bag bag bag bag bag bag bag bag bag bag ]
+[bikini                   ] [sexy women bandage bikini set push up pa] [bag bag bag bag bag bag bag bag bag bag ]
+[bikini                   ] [m women push up tropical bikini printed ] [bag bag bag bag bag bag bag bag bag bag ]
+[bikini                   ] [2016 fashion women s sexy hawaiian brazi] [bag bag bag bag bag bag bag bag bag bag ]
+[bikini                   ] [sexy women bikini set bandage push up pa] [bag bag bag bag bag bag bag bag bag bag ]
+eval: perplexity 1188.01
+eval: perplexity 1499.03
+eval: perplexity 1598.80
+eval: perplexity 560.97
+global step 514 learning rate 0.1452 step-time 0.66 perplexity 1.32
+results: 
+[bmw gs                   ] [2012 bmw f series                       ] [bag bag bag bag bag bag bag bag bag bag ]
+[bmw windscreen wind defle] [bmw f12 6 series convertible wind screen] [bag bag bag bag bag bag bag bag bag bag ]
+[bmw double vanos seals   ] [bmw m52tu m54 m56 viton ptfe double twin] [audi audi audi bag bag i i i i i i i i i]
+[bmw double vanos seals   ] [bmw z3 series e36 double twin dual vanos] [audi audi audi bag bag i i i i i i i i i]
+[bmw double vanos seals   ] [bmw 3 series e46 98 05 double twin dual ] [audi audi audi bag bag i i i i i i i i i]
+eval: perplexity 247.38
+eval: perplexity 283.23
+eval: perplexity 280.43
+eval: perplexity 339.56
+global step 534 learning rate 0.1381 step-time 0.67 perplexity 1.29
+results: 
+[ballistic evz7 8 evo3 bat] [evo3 lithium battery evz7l 8 102 012 for] [audi audi audi audi i i i i i i i i i i ]
+[ballistic evz7 8 evo3 bat] [ballistic performance lithium ion 12v ba] [audi audi audi audi i i i i i i i i i i ]
+[ballistic evz7 8 evo3 bat] [ballistic performance evo3 evz7l 4 lithi] [audi audi audi audi i i i i i i i i i i ]
+[ballistic evz7 8 evo3 bat] [ballistic performance evo3 evz7 8 lithiu] [audi audi audi audi i i i i i i i i i i ]
+[ballistic evz7 8 evo3 bat] [ballistic performance 102 011 battery ev] [audi audi audi audi i i i i i i i i i i ]
+eval: perplexity 69.34
+eval: perplexity 218.02
+eval: perplexity 293.10
+eval: perplexity 214.18
+global step 554 learning rate 0.1327 step-time 0.67 perplexity 1.30
+results: 
+[becker                   ] [becker mexico cd 2000 grand prix 8 pin c] [bag bag bag bag bag bag bag bag bag bag ]
+[beckman gs 6 r centrifuge] [beckman centrifuge benchtop model refrig] [audi audi audi audi audi i i i i i i i i]
+[becker mexico radio      ] [mercedes ferrari 250 dino porsche becker] [bag bag bag bag bag bag bag bag bag bag ]
+[beckman gs 6 r centrifuge] [beckman centrifuge benchtop model refrig] [audi audi audi audi audi i i i i i i i i]
+[becker                   ] [genuine antique german gustav becker 2 w] [bag bag bag bag bag bag bag bag bag bag ]
+eval: perplexity 138.65
+eval: perplexity 191.27
+eval: perplexity 276.84
+eval: perplexity 232.67
+global step 574 learning rate 0.1237 step-time 0.66 perplexity 1.33
+results: 
+[blue womens trousers     ] [womens blue navy trousers pants size 18 ] [bag bag bag bag bag bag bag bag bag bag ]
+[blue tooth phone         ] [lg hbm 290 wireless bluetooth cell phone] [golf bag bag bag bag bag bag bag bag bag]
+[bluetooth wireless sport ] [bluetooth wireless headset stereo headph] [bag bag bag bag bag bag bag bag bag bag ]
+[bluetooth modul adapter  ] [bluetooth modul adapter mercedes yatour ] [bag bag bag bag bag bag bag i i i i i i ]
+[bluetooth portable stereo] [sound barrage wireless portable bluetoot] [bag bag bag bag bag bag bag bag bag bag ]
+eval: perplexity 247.15
+eval: perplexity 488.77
+eval: perplexity 237.45
+eval: perplexity 248.78
+global step 594 learning rate 0.1188 step-time 0.66 perplexity 1.31
+results: 
+[brother mfcl             ] [brother mfcl2700dw mfc l2700dw compact a] [audi golf bag bag bag bag bag i i i i i ]
+[brown cat tail           ] [amy brown print lion cat fairy wings div] [bag bag bag bag bag bag bag bag bag bag ]
+[brown motorbike jacket   ] [mens rare vintage cool all saints brown ] [bag bag bag bag bag bag bag bag bag bag ]
+[brush hair straightener  ] [electric lcd automatic temperature contr] [bag bag bag bag bag bag bag bag bag bag ]
+[bruce lee lot            ] [lot of 6 bruce lee dvd s                ] [bag bag bag bag bag bag bag bag bag bag ]
+eval: perplexity 384.98
+eval: perplexity 145.63
+eval: perplexity 136.44
+eval: perplexity 138.08
+global step 614 learning rate 0.1118 step-time 0.66 perplexity 1.26
+results: 
+[buick park avenue        ] [2001 buick park avenue 3.8 liter v6 seda] [bag bag bag bag bag bag bag bag bag bag ]
+[buick park avenue        ] [2001 buick park avenue with prestige pac] [bag bag bag bag bag bag bag bag bag bag ]
+[buick park avenue        ] [1984 buick park avenue                  ] [bag bag bag bag bag bag bag bag bag bag ]
+[buick park avenue        ] [1999 buick park avenue                  ] [bag bag bag bag bag bag bag bag bag bag ]
+[buick park avenue        ] [1999 buick park avenue window motor righ] [bag bag bag bag bag bag bag bag bag bag ]
+eval: perplexity 123.95
+eval: perplexity 139.46
+eval: perplexity 291.24
+eval: perplexity 141.66
+global step 634 learning rate 0.1074 step-time 0.66 perplexity 1.19
+results: 
+[cd dvd discs organizer   ] [fabulous black 40pcs cd dvd discs organi] [bag bag bag bag bag bag bag bag bag bag ]
+[ccl padlock              ] [vintage corbin ccl padlock 26 key.      ] [audi audi audi golf golf i i i i i i i i]
+[cbd powder               ] [cbd crystals hanf kristalle 98 pure cbd ] [golf golf bag bag bag bag i i i i i i i ]
+[cd dvd discs organizer   ] [40 disc cd dvd vcd wallet album storage ] [bag bag bag bag bag bag bag bag bag bag ]
+[cb radio europe          ] [crt one n am fm multistandard cb am fm t] [bag bag bag bag bag bag bag bag bag bag ]
+eval: perplexity 249.19
+eval: perplexity 143.58
+eval: perplexity 166.22
+eval: perplexity 241.29
+global step 654 learning rate 0.1032 step-time 0.66 perplexity 1.34
+results: 
+[calcium disodium edta    ] [edta oral chelation chelate 600mg 100 ca] [audi audi audi audi i i i i i i i i i i ]
+[california adventure     ] [cars land piston cup disney s california] [golf bag bag bag bag bag bag bag hats i ]
+[california adventure     ] [disneyland resort california adventure b] [golf bag bag bag bag bag bag bag hats i ]
+[california adventure     ] [collector packs california adventure mou] [golf bag bag bag bag bag bag bag hats i ]
+[cakewalk music creator   ] [new cakewalk music creator 4 software   ] [audi audi audi i i i i i i i i i i i i i]
+eval: perplexity 334.65
+eval: perplexity 245.05
+eval: perplexity 437.65
+eval: perplexity 272.01
+global step 674 learning rate 0.0972 step-time 0.66 perplexity 1.33
+results: 
+[cat s eye rhinestone     ] [golden women suit tuxedo cat eye opal cz] [bag bag bag bag bag bag bag bag bag bag ]
+[cat s eye rhinestone     ] [free wholesale lots big cat eye gemstone] [bag bag bag bag bag bag bag bag bag bag ]
+[catcher                  ] [rawlings lobster adult blue baseball cat] [golf golf bag bag bag bag bag bag i i i ]
+[catalog g braggs of bango] [bragg of bangor maine catalog aa 1938 il] [audi audi i i i i i i i i i i i i i i   ]
+[cat scratch              ] [cat scratching post tree scratcher kitte] [golf bag bag bag bag bag bag bag bag bag]
+eval: perplexity 234.04
+eval: perplexity 251.97
+eval: perplexity 46.00
+eval: perplexity 346.92
+global step 694 learning rate 0.0915 step-time 0.67 perplexity 1.32
+results: 
+[christian dior hinge brac] [christian dior gold tone clear rhineston] [golf golf bag bag bag bag bag bag i i i ]
+[christian death catastrop] [christian death catastrophe ballet mispr] [audi audi audi i i i i i i i i i i i i i]
+[chow chow photo          ] [chow chow named set of 6 dog photo trade] [audi audi audi audi audi i i i i i i i i]
+[christian siriano for pay] [christian siriano for payless heels shoe] [audi audi i i i i i i i i i i i i i i   ]
+[christian kids explore ph] [christian kids explore physics second ed] [audi audi audi i i i i i i i i i i i i i]
+eval: perplexity 236.69
+eval: perplexity 346.03
+eval: perplexity 188.47
+eval: perplexity 248.25
+global step 714 learning rate 0.0888 step-time 0.66 perplexity 1.24
+results: 
+[coach signature python ba] [coach bag blowout green python signature] [golf golf bag bag bag bag bag bag bag ba]
+[coach shoulder           ] [authentic coach patchwork signature shou] [golf bag bag bag bag bag bag i i i i i i]
+[coach shoulder           ] [nwt coach metallic leather edie 31 shoul] [golf bag bag bag bag bag bag i i i i i i]
+[cobra baffler t rail hybr] [cobra baffler t rail 22 degree 4 hybrid ] [golf golf golf golf i i i i i i i i i i ]
+[coach rose gold purse    ] [coach nickel parker riley satchel 13461 ] [audi bag bag bag bag bag bag i i i i i i]
+eval: perplexity 340.12
+eval: perplexity 194.68
+eval: perplexity 205.50
+eval: perplexity 306.13
+global step 734 learning rate 0.0827 step-time 0.67 perplexity 1.30
+results: 
+[cris cyborg cards        ] [ufc signed card cris cyborg mma cristian] [audi golf golf golf i i i i i i i i i i ]
+[crochet cover up         ] [summer women bathing suit sexy lace croc] [golf golf bag bag bag bag bag bag i i i ]
+[criterium rise handlebar ] [brand new hi rise beach cruiser bike han] [golf golf golf bag i i i i i i i i i i i]
+[cribbage board vintage 3 ] [vintage red white blue patriotic 3 track] [best golf golf hats hats hats hats i i i]
+[cribbage board vintage 3 ] [vintage red white blue patriotic 3 track] [best golf golf hats hats hats hats i i i]
+eval: perplexity 324.07
+eval: perplexity 273.42
+eval: perplexity 175.88
+eval: perplexity 38.73
+global step 754 learning rate 0.0795 step-time 0.68 perplexity 1.29
+results: 
+[diesel shoes             ] [diesel korbin ii mens athletic sneakers ] [golf golf golf bag i i i i i i i i i i i]
+[diesel sunglasses        ] [brand new diesel sunglasses dl 0026 colo] [golf golf golf bag i i i i i i i i i i i]
+[diecast nissan skyline ra] [tomica limited 126 nissan skyline gt r k] [golf golf golf golf golf i i i i i i i i]
+[dilf desires             ] [epic male dilf desires 5 xxx dvd gay har] [golf golf golf i i i i i i i i i i i i i]
+[diesel shoes             ] [new diesel brand men s hurrikane brown y] [golf golf golf bag i i i i i i i i i i i]
+eval: perplexity 297.13
+eval: perplexity 264.03
+eval: perplexity 204.36
+eval: perplexity 169.54
+global step 774 learning rate 0.0756 step-time 0.67 perplexity 1.31
+results: 
+[desoto desoto            ] [1959 desoto firesweep                   ] [golf golf golf i i i i i i i i i i i i i]
+[desoto desoto            ] [1955 desoto sprtsman                    ] [golf golf golf i i i i i i i i i i i i i]
+[desoto desoto            ] [1958 desoto firesweep                   ] [golf golf golf i i i i i i i i i i i i i]
+[desoto desoto            ] [1956 desoto firedome                    ] [golf golf golf i i i i i i i i i i i i i]
+[desoto desoto            ] [1936 desoto fordor sedan                ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 220.83
+eval: perplexity 109.07
+eval: perplexity 201.62
+eval: perplexity 225.62
+global step 794 learning rate 0.0719 step-time 0.67 perplexity 1.34
+results: 
+[disney bag               ] [disney mickey purse cross body bag signa] [golf golf golf golf hats i i i i i i i i]
+[disney bag               ] [disney store japan tote bag nightmare be] [golf golf golf golf hats i i i i i i i i]
+[disney crocs             ] [disney world parks crocs black red micke] [golf golf golf bag bag i i i i i i i i i]
+[disney magiclip          ] [disney little kingdom tiana snow white a] [golf golf golf golf i i i i i i i i i i ]
+[disney bag               ] [official disney store japan beauty and t] [golf golf golf golf hats i i i i i i i i]
+eval: perplexity 413.22
+eval: perplexity 307.34
+eval: perplexity 255.20
+eval: perplexity 224.03
+global step 814 learning rate 0.0677 step-time 0.67 perplexity 1.33
+results: 
+[dudley s pca moisture ret] [lot of 2 dudley s pca moisture retainer ] [audi meter meter i i i i i i i i i i i i]
+[dumbbells                ] [tri grip weight plates 20kg 30kg 40kg 50] [golf golf golf golf i i i i i i i i i i ]
+[duet max clog 9          ] [crocs duet wave clog round toe synthetic] [golf golf golf golf i i i i i i i i i i ]
+[dumbbells                ] [2.5kg 15kg pairs rubber encased dumbbell] [golf golf golf golf i i i i i i i i i i ]
+[ductless mini split      ] [18000 btu 1.5 ton ductless mini split ai] [golf golf golf golf i i i i i i i i i i ]
+eval: perplexity 138.44
+eval: perplexity 170.19
+eval: perplexity 157.74
+eval: perplexity 149.53
+global step 834 learning rate 0.0637 step-time 0.68 perplexity 1.30
+results: 
+[eldon office products    ] [vintage retro eldon office products pape] [golf golf golf golf golf i i i i i i i i]
+[elecraft                 ] [elecraft kx1 keyer paddle and kxat1 atu ] [golf golf golf golf i i i i i i i i i i ]
+[elecraft                 ] [200w hf power amplifier ft 817 icom ic 7] [golf golf golf golf i i i i i i i i i i ]
+[elecraft                 ] [elecraft k3 100 radio transceiver absolu] [golf golf golf golf i i i i i i i i i i ]
+[elecraft                 ] [elecraft k3s 26 p3 22all new march 2016 ] [golf golf golf golf i i i i i i i i i i ]
+eval: perplexity 95.17
+eval: perplexity 134.31
+eval: perplexity 97.31
+eval: perplexity 194.76
+global step 854 learning rate 0.0606 step-time 0.68 perplexity 1.30
+results: 
+[fdr                      ] [1939 press photo fdr s cluttered desk on] [golf golf golf golf i i i i i i i i i i ]
+[fdr                      ] [original 1940 fdr president franklin roo] [golf golf golf golf i i i i i i i i i i ]
+[fdr banner               ] [vintage pennant hyde park ny 10 inch hom] [golf golf golf golf i i i i i i i i i i ]
+[feather professional stra] [straight razor new feather professional ] [golf golf golf golf i i i i i i i i i i ]
+[fdr                      ] [1933 press photo president franklin d. r] [golf golf golf golf i i i i i i i i i i ]
+eval: perplexity 396.51
+eval: perplexity 200.05
+eval: perplexity 355.00
+eval: perplexity 273.05
+global step 874 learning rate 0.0559 step-time 0.66 perplexity 1.31
+results: 
+[festina                  ] [festina watch strap f16183 40 black leat] [golf golf golf golf i i i i i i i i i i ]
+[ferrite beads            ] [wuerth elektronik 74270022 axial ferrite] [golf golf golf golf golf i i i i i i i i]
+[festina                  ] [festina chronograph f16635 4 neuwertig  ] [golf golf golf golf i i i i i i i i i i ]
+[festina                  ] [festina bike tour de france chronograph ] [golf golf golf golf i i i i i i i i i i ]
+[festina                  ] [festina herren uhr sport trend chronogra] [golf golf golf golf i i i i i i i i i i ]
+eval: perplexity 168.71
+eval: perplexity 406.59
+eval: perplexity 461.71
+eval: perplexity 321.81
+global step 894 learning rate 0.0537 step-time 0.67 perplexity 1.31
+results: 
+[forever sunshine         ] [3 bath and body works forever sunshine c] [golf golf golf golf i i i i i i i i i i ]
+[ford ranger wheels       ] [18 genuine ford ranger wildtrak alloy wh] [golf golf golf golf i i i i i i i i i i ]
+[ford sat nav             ] [ford sat nav unit headset out of a 2006 ] [golf golf golf golf i i i i i i i i i i ]
+[ford sat nav             ] [ford blaupunkt travelpilot ex radio cd p] [golf golf golf golf i i i i i i i i i i ]
+[ford talladega           ] [1969 ford fairlane torino hash marks rea] [golf golf golf golf i i i i i i i i i i ]
+eval: perplexity 199.73
+eval: perplexity 238.03
+eval: perplexity 307.18
+eval: perplexity 382.68
+global step 914 learning rate 0.0511 step-time 0.68 perplexity 1.33
+results: 
+[giant liv avail road bike] [giant 2 liv aluxx sl 6000 series women s] [golf golf golf i i i i i i i i i i i i i]
+[girls disney winter bath ] [disney frozen elsa anna plush bathrobe b] [bag bag bag bag bag bag i i i i i i i i ]
+[girls led shoes          ] [hot boys girls led light up sport flats ] [golf golf golf golf i i i i i i i i i i ]
+[girls geneva watch       ] [geneva buckle silicone golden crystal wa] [golf golf golf golf shop i i i i i i i i]
+[gig bag ukulele          ] [johnson uk 140 soprano pineapple ukulele] [golf golf golf bag bag i i i i i i i i i]
+eval: perplexity 156.07
+eval: perplexity 134.01
+eval: perplexity 502.69
+eval: perplexity 149.71
+global step 934 learning rate 0.0476 step-time 0.69 perplexity 1.28
+results: 
+[gateron yellow           ] [61 87 104 108 120 pcs gateron rgb series] [golf golf golf golf i i i i i i i i i i ]
+[gas pump book            ] [gas station memories michael karl witzel] [golf golf golf golf i i i i i i i i i i ]
+[gateway cachet           ] [sandy koufax inducted to hof in 1989 aut] [golf golf golf i i i i i i i i i i i i i]
+[gateway q5wtc screen     ] [gateway ne56r q5wtc series 15.6 glossy l] [golf golf golf i i i i i i i i i i i i i]
+[gawsworth rattan corner d] [9 seater rattan corner garden sofa dinin] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 175.08
+eval: perplexity 291.83
+eval: perplexity 373.34
+eval: perplexity 346.00
+global step 954 learning rate 0.0453 step-time 0.68 perplexity 1.30
+results: 
+[goldeneye                ] [goldeneye dvd                           ] [golf golf golf golf i i i i i i i i i i ]
+[golden sun feeds         ] [vintage golden sun feeds piggy bank meat] [golf golf golf i i i i i i i i i i i i i]
+[goldwing trailer         ] [2006 honda gold wing                    ] [golf golf golf golf i i i i i i i i i i ]
+[golden books little black] [little black sambo vintage 1948 golden b] [golf golf i i i i i i i i i i i i i i   ]
+[gold silver metallic flas] [new temporary metallic tattoo flash tatt] [golf golf bag bag bag bag bag i i i i i ]
+eval: perplexity 222.59
+eval: perplexity 255.07
+eval: perplexity 269.90
+eval: perplexity 143.90
+global step 974 learning rate 0.0435 step-time 0.68 perplexity 1.31
+results: 
+[head gasket lancer mitsu ] [cabeza junta conjunto encaja 08 10 mitsu] [golf golf i i i i i i i i i i i i i i   ]
+[headlight golf mk4       ] [nuevo para todos 1999 2005 vw jetta mk4 ] [golf golf golf i i i i i i i i i i i i i]
+[head set moniter         ] [2x9 in car digital headrest dvd player m] [golf golf golf i i i i i i i i i i i i i]
+[hdzeta                   ] [ 3d 2d blu ray steelbook hdzeta b       ] [golf golf golf golf i i i i i i i i i i ]
+[heavy duty floor press   ] [20 ton a frame hydraulic heavy duty floo] [golf golf golf golf golf i i i i i i i i]
+eval: perplexity 66.91
+eval: perplexity 115.92
+eval: perplexity 152.62
+eval: perplexity 155.65
+global step 994 learning rate 0.0414 step-time 0.68 perplexity 1.00
+results: 
+[hard candy nails polish  ] [ 12 hard candy nail polish in pixie     ] [golf golf golf golf golf i i i i i i i i]
+[hard rock t shirt        ] [men s gray hard rock cafe short sleeved ] [golf golf golf i i i i i i i i i i i i i]
+[hard rock t shirt        ] [rare hard rock cafe beach club back pane] [golf golf golf i i i i i i i i i i i i i]
+[hard rock t shirt        ] [hard rock cafe t shirt myrtle beach     ] [golf golf golf i i i i i i i i i i i i i]
+[hard rock t shirt        ] [hard rock hotel las vegas t shirt xl caf] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 918.76
+eval: perplexity 206.75
+eval: perplexity 160.26
+eval: perplexity 155.27
+global step 1014 learning rate 0.0385 step-time 0.67 perplexity 1.34
+results: 
+[harley davidson cvo      ] [2004 harley davidson touring            ] [golf golf golf i i i i i i i i i i i i i]
+[harley davidson cvo      ] [2014 harley davidson cvo ultra limited f] [golf golf golf i i i i i i i i i i i i i]
+[harley davidson cvo      ] [2015 harley davidson flhtkse cvo ultra l] [golf golf golf i i i i i i i i i i i i i]
+[harley davidson cvo      ] [2012 harley davidson touring            ] [golf golf golf i i i i i i i i i i i i i]
+[harley davidson cvo      ] [2016 harley davidson touring            ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 146.91
+eval: perplexity 44.72
+eval: perplexity 6.93
+eval: perplexity 5.38
+global step 1034 learning rate 0.0367 step-time 0.70 perplexity 1.32
+results: 
+[harley davidson cvo      ] [2015 harley davidson touring            ] [golf golf golf golf i i i i i i i i i i ]
+[harley davidson cvo      ] [2013 harley davidson touring            ] [golf golf golf golf i i i i i i i i i i ]
+[harley davidson cvo      ] [2015 harley davidson touring            ] [golf golf golf golf i i i i i i i i i i ]
+[harley davidson cvo      ] [2012 harley davidson touring            ] [golf golf golf golf i i i i i i i i i i ]
+[harley davidson cvo      ] [2010 harley davidson cvo street glide   ] [golf golf golf golf i i i i i i i i i i ]
+eval: perplexity 6.22
+eval: perplexity 187.60
+eval: perplexity 271.27
+eval: perplexity 282.92
+global step 1054 learning rate 0.0352 step-time 0.69 perplexity 1.31
+results: 
+[hillary clinton signed   ] [president bill hillary clinton signed ha] [golf golf golf golf golf i i i i i i i i]
+[hillary clinton signed   ] [hillary clinton signed autograph campaig] [golf golf golf golf golf i i i i i i i i]
+[hillary clinton signed   ] [it takes a village by hillary rodham cli] [golf golf golf golf golf i i i i i i i i]
+[hillary clinton signed   ] [hillary clinton signed 16 x20 photo very] [golf golf golf golf golf i i i i i i i i]
+[highschool dxd           ] [high school dxd the series 4 discs alter] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 186.64
+eval: perplexity 177.70
+eval: perplexity 249.07
+eval: perplexity 144.39
+global step 1074 learning rate 0.0335 step-time 0.70 perplexity 1.31
+results: 
+[hunger games blu ray     ] [the hunger games 3 disc blu ray dvd uk v] [golf golf golf golf i i i i i i i i i i ]
+[hungarian camera         ] [vintage 50 s 60 s hungarian gamma pajt s] [golf golf golf i i i i i i i i i i i i i]
+[hummingbird fish finder  ] [hummingbird piranha max 10 fish finder 1] [golf golf golf i i i i i i i i i i i i i]
+[hummingbird fish finder  ] [humminbird 2fhummingbird lcr graph tcr10] [golf golf golf i i i i i i i i i i i i i]
+[hunger games blu ray     ] [the hunger games the unseen version blu ] [golf golf golf golf i i i i i i i i i i ]
+eval: perplexity 160.55
+eval: perplexity 156.04
+eval: perplexity 155.87
+eval: perplexity 156.97
+global step 1094 learning rate 0.0309 step-time 0.70 perplexity 1.33
+results: 
+[incipio octane moto x pur] [incipio motorola moto x pure edition cas] [golf golf i i i i i i i i i i i i i i   ]
+[indexing pry bar         ] [gearwrench 29 48 extendable indexing pry] [golf golf golf i i i i i i i i i i i i i]
+[india indiana album      ] [led zeppelin iv 4th album stereo rare lp] [golf golf golf golf i i i i i i i i i i ]
+[inch tape measure        ] [stanley 33 425 powerlock 25 foot by 1 in] [golf golf i i i i i i i i i i i i i i   ]
+[incense oils             ] [tibetan incense sticks wild flora natura] [golf golf golf golf i i i i i i i i i i ]
+eval: perplexity 189.38
+eval: perplexity 170.78
+eval: perplexity 144.20
+eval: perplexity 281.32
+global step 1114 learning rate 0.0297 step-time 0.69 perplexity 1.33
+results: 
+[jordan 1 bred banned     ] [air jordan 1 retro og cyber monday custo] [golf golf i i i i i i i i i i i i i i   ]
+[job lot vinyl            ] [job lot of 16 vinyl lp s various artists] [golf golf golf golf i i i i i i i i i i ]
+[john zack                ] [wrap over plunge v maxi dress bodycon si] [golf golf golf i i i i i i i i i i i i i]
+[joint pain stickers      ] [16xwhite tiger balm plaster pain muscle ] [golf golf golf golf i i i i i i i i i i ]
+[john zack                ] [john zack wrap over midi dress size 8 14] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 177.92
+eval: perplexity 206.03
+eval: perplexity 87.20
+eval: perplexity 269.02
+global step 1134 learning rate 0.0288 step-time 0.70 perplexity 1.30
+results: 
+[judas priest t shirt     ] [judas priest heavy metal rock t shirt si] [golf golf golf i i i i i i i i i i i i i]
+[judith leiber bird       ] [gold tone judith leiber enamel bird pin ] [golf golf golf i i i i i i i i i i i i i]
+[journey into mystery annu] [journey into mystery annual 1 fn first a] [golf golf golf i i i i i i i i i i i i i]
+[journey into mystery annu] [journey into mystery annual 1 fn first a] [golf golf golf i i i i i i i i i i i i i]
+[journey into mystery annu] [journey into mystery annual 1 fn first a] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 192.93
+eval: perplexity 209.73
+eval: perplexity 102.17
+eval: perplexity 252.62
+global step 1154 learning rate 0.0274 step-time 0.67 perplexity 1.32
+results: 
+[keychain iphone 6s       ] [crystal ring key chain white ball bow ta] [golf golf golf golf i i i i i i i i i i ]
+[khyam awning             ] [khyam motordome tourer quick erect awnin] [golf golf golf i i i i i i i i i i i i i]
+[khyam awning             ] [khyam motordome tourer quick erect awnin] [golf golf golf i i i i i i i i i i i i i]
+[key case subaru outback  ] [real good cow genuine leather car remote] [golf golf golf i i i i i i i i i i i i i]
+[keymod quad rail         ] [10 free float handguard keymod quad rail] [golf golf golf golf i i i i i i i i i i ]
+eval: perplexity 277.45
+eval: perplexity 243.01
+eval: perplexity 133.48
+eval: perplexity 155.33
+global step 1174 learning rate 0.0260 step-time 0.71 perplexity 1.27
+results: 
+[larsen toilet seat hinge ] [lasco 14 1053 toilet seat hinge polished] [golf golf golf i i i i i i i i i i i i i]
+[large bisque nativity    ] [e237 ceramic bisque 21 piece atlantic na] [golf golf golf i i i i i i i i i i i i i]
+[lancome l absolu rouge   ] [lancome l absolu rouge advanced hydratin] [golf golf golf i i i i i i i i i i i i i]
+[large bags               ] [women designer inspire tote shoulder han] [golf golf golf i i i i i i i i i i i i i]
+[land rover freelander mir] [crb501171pmd new mirror driver left side] [golf golf golf golf i i i i i i i i i i ]
+eval: perplexity 288.25
+eval: perplexity 367.38
+eval: perplexity 285.04
+eval: perplexity 220.16
+global step 1194 learning rate 0.0243 step-time 0.70 perplexity 1.26
+results: 
+[ladies clothes dammy     ] [exquisite lace stretched dress form mann] [golf golf golf i i i i i i i i i i i i i]
+[ladies velvet plush leggi] [velvet plush leggings l xl              ] [golf golf golf golf i i i i i i i i i i ]
+[ladies baseball cap      ] [ladies mens adjustable velcro new ny yor] [golf golf golf golf i i i i i i i i i i ]
+[ladies bolero jackets    ] [ladies bolero jacket by debenhams size 1] [golf golf golf i i i i i i i i i i i i i]
+[ladies baseball cap      ] [new nike ladies seasonal ultralight deep] [golf golf golf golf i i i i i i i i i i ]
+eval: perplexity 313.11
+eval: perplexity 92.50
+eval: perplexity 194.98
+eval: perplexity 262.89
+global step 1214 learning rate 0.0229 step-time 0.69 perplexity 1.31
+results: 
+[leptop                   ] [lenovo thinkpad t400s 14 core 2 duo 2.4g] [golf golf golf i i i i i i i i i i i i i]
+[leptop                   ] [hp spectre x360 13 4102dx i7 5500u 8gb 5] [golf golf golf i i i i i i i i i i i i i]
+[lesbea                   ] [late night lesbea 18 teen young lesbian ] [golf golf golf i i i i i i i i i i i i i]
+[leo air compressor pressu] [replacement air compressor pressure swit] [golf golf golf i i i i i i i i i i i i i]
+[leopard grain shoes      ] [korean women s fashion cozy tip head leo] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 263.71
+eval: perplexity 189.11
+eval: perplexity 197.05
+eval: perplexity 480.10
+global step 1234 learning rate 0.0217 step-time 0.69 perplexity 1.30
+results: 
+[long cardigan sweater wom] [womens boho long sleeve cardigan tops ca] [golf golf golf i i i i i i i i i i i i i]
+[long sleeve rash vest xl ] [alder boys long sleeve high neck rash ve] [golf golf golf i i i i i i i i i i i i i]
+[long women lace dress    ] [women summer sexy bodycon lace long slee] [golf golf golf i i i i i i i i i i i i i]
+[long summer shorts men   ] [g mens elastic waist 3 4 long shorts sum] [golf golf golf golf i i i i i i i i i i ]
+[long cardigan sweater wom] [womens boho long sleeve cardigan tops ca] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 279.18
+eval: perplexity 255.69
+eval: perplexity 271.52
+eval: perplexity 189.51
+global step 1254 learning rate 0.0201 step-time 0.71 perplexity 1.29
+results: 
+[mcm hat                  ] [mcm unisex gold stud black visetos adjus] [golf golf golf golf i i i i i i i i i i ]
+[mdr 1abt                 ] [new sony mdr 1abt high resolution audio ] [golf golf golf i i i i i i i i i i i i i]
+[mdr 1abt                 ] [sony mdr 1a headphones supports high res] [golf golf golf i i i i i i i i i i i i i]
+[mac lipstick             ] [mac cosmetics lipstick in modesty nib   ] [golf golf golf golf i i i i i i i i i i ]
+[mariachi background      ] [day of the dead mariachi band standee in] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 130.20
+eval: perplexity 249.53
+eval: perplexity 262.94
+eval: perplexity 220.40
+global step 1274 learning rate 0.0193 step-time 0.69 perplexity 1.33
+results: 
+[monkey bike              ] [50cc monkey bike                        ] [golf golf golf i i i i i i i i i i i i i]
+[monkey bike              ] [monkeybike 110cc lifan                  ] [golf golf golf i i i i i i i i i i i i i]
+[monkey bike              ] [drum brake black steel frame suitable fo] [golf golf golf i i i i i i i i i i i i i]
+[monofilamento            ] [k karp mimetic mono 300mt. 0.325 l nea d] [golf golf golf i i i i i i i i i i i i i]
+[monkey bike              ] [50cc chopper monkey bike                ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 161.65
+eval: perplexity 160.53
+eval: perplexity 171.39
+eval: perplexity 246.75
+global step 1294 learning rate 0.0185 step-time 0.70 perplexity 1.30
+results: 
+[marshalltown             ] [marshalltown the premier line 798d right] [golf golf golf i i i i i i i i i i i i i]
+[marseille shirt          ] [adidas olympique marseille jersey om hom] [golf golf golf i i i i i i i i i i i i i]
+[marsmatic adaptor        ] [staedtler marsmatic 700 technical pen se] [golf golf golf i i i i i i i i i i i i i]
+[mars mei bill acceptor   ] [mars mei vn2712 bill acceptor validator ] [golf golf i i i i i i i i i i i i i i   ]
+[marseille shirt          ] [olympic marseille player issue 2010 11 l] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 258.99
+eval: perplexity 186.62
+eval: perplexity 154.09
+eval: perplexity 157.09
+global step 1314 learning rate 0.0176 step-time 0.69 perplexity 1.35
+results: 
+[mens blazer suit         ] [bar iii 0432 mens black wool slim fit tw] [golf golf golf i i i i i i i i i i i i i]
+[mens blazer suit         ] [bar iii 1473 mens black wool two button ] [golf golf golf i i i i i i i i i i i i i]
+[men s sug chronograph    ] [new sug 1883 chronograph men s watch bla] [golf golf golf i i i i i i i i i i i i i]
+[men s sandals            ] [mens casual beach summer velcro comfort ] [golf golf golf golf i i i i i i i i i i ]
+[mens adidas zx flux      ] [adidas zx flux lava print size uk10     ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 341.49
+eval: perplexity 127.12
+eval: perplexity 126.12
+eval: perplexity 94.81
+global step 1334 learning rate 0.0167 step-time 0.69 perplexity 1.26
+results: 
+[mercedes                 ] [1960 mercedes benz 300 series 300       ] [golf golf golf i i i i i i i i i i i i i]
+[mercedes                 ] [mercedes w124 300e 24 1992 aircon heated] [golf golf golf i i i i i i i i i i i i i]
+[mercedes                 ] [mercedes benz sprinter executive shuttle] [golf golf golf i i i i i i i i i i i i i]
+[mercedes                 ] [mercedes ml 270 cdi 2001 7 seat 4x4     ] [golf golf golf i i i i i i i i i i i i i]
+[mercedes                 ] [56 reg mercedes benz c class sport coupe] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 102.47
+eval: perplexity 91.17
+eval: perplexity 121.55
+eval: perplexity 91.60
+global step 1354 learning rate 0.0159 step-time 0.70 perplexity 1.32
+results: 
+[mercedes                 ] [mercedes steering wheel amg style flat b] [golf golf golf i i i i i i i i i i i i i]
+[mercedes                 ] [2001 mercedes benz sl class             ] [golf golf golf i i i i i i i i i i i i i]
+[mercedes                 ] [mercedes benz e320 3.2 auto e320        ] [golf golf golf i i i i i i i i i i i i i]
+[mercedes                 ] [1980 mercedes benz sl class             ] [golf golf golf i i i i i i i i i i i i i]
+[mercedes                 ] [1964 mercedes benz 200 series 220seb w11] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 121.97
+eval: perplexity 121.11
+eval: perplexity 90.24
+eval: perplexity 111.72
+global step 1374 learning rate 0.0153 step-time 0.70 perplexity 1.30
+results: 
+[mercedes                 ] [mercedes c220 cdi spears or repair      ] [golf golf golf i i i i i i i i i i i i i]
+[mercedes                 ] [mercedes benz c class c200 c 200 amg spo] [golf golf golf i i i i i i i i i i i i i]
+[mercedes                 ] [mercedes slk 230 kompressor auto blue   ] [golf golf golf i i i i i i i i i i i i i]
+[mercedes                 ] [1996 mercedes c280 amg w202 c36 amg 12 m] [golf golf golf i i i i i i i i i i i i i]
+[mercedes                 ] [1982 mercedes benz 300 series           ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 105.61
+eval: perplexity 117.47
+eval: perplexity 113.04
+eval: perplexity 214.43
+global step 1394 learning rate 0.0144 step-time 0.69 perplexity 1.32
+results: 
+[mercedes benz a class    ] [mercedes a class w168 1998 2004 power st] [golf golf golf i i i i i i i i i i i i i]
+[mercedes benz a class    ] [mercedes benz a class 2013 w176 sport fr] [golf golf golf i i i i i i i i i i i i i]
+[mercedes benz a class    ] [mercedes benz a class 2013 w176 front bu] [golf golf golf i i i i i i i i i i i i i]
+[mercedes benz a class    ] [2015 mercedes benz a class gla250 4matic] [golf golf golf i i i i i i i i i i i i i]
+[mercedes benz a class    ] [mercedes benz a class a180 cdi amg w176 ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 202.38
+eval: perplexity 82.35
+eval: perplexity 325.19
+eval: perplexity 186.54
+global step 1414 learning rate 0.0136 step-time 0.68 perplexity 1.27
+results: 
+[michael kors card holder ] [michael kors jet set travel lilac leathe] [golf golf golf bag i i i i i i i i i i i]
+[michael kors card holder ] [michael kors jet set travel lilac leathe] [golf golf golf bag i i i i i i i i i i i]
+[michelin power pilot rear] [michelin pilot power 2ct 150 60zr17 150 ] [golf golf golf i i i i i i i i i i i i i]
+[michael kors black leathe] [michael kors black leather microstud cal] [golf golf bag bag bag bag i i i i i i i ]
+[michael slaying devil sta] [saint michael the archangel defeating th] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 283.96
+eval: perplexity 156.90
+eval: perplexity 174.74
+eval: perplexity 436.94
+global step 1434 learning rate 0.0126 step-time 0.70 perplexity 1.29
+results: 
+[moroccan decorative pillo] [blue moroccan trellis cushion cover geom] [golf golf golf golf i i i i i i i i i i ]
+[moroni utah co op        ] [bicknell ut people s merc. co. early uta] [golf golf i i i i i i i i i i i i i i   ]
+[morehead state           ] [morehead state eagles bright blue cap wi] [golf golf golf i i i i i i i i i i i i i]
+[moroni utah co op        ] [bicknell ut people s merc. co. early uta] [golf golf i i i i i i i i i i i i i i   ]
+[moonstone round bead     ] [1strand circular gemstones imitation rou] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 437.25
+eval: perplexity 267.47
+eval: perplexity 142.68
+eval: perplexity 172.92
+global step 1454 learning rate 0.0120 step-time 0.69 perplexity 1.30
+results: 
+[nike men air tech challen] [men s nike air tech challenge hrche size] [golf golf golf golf i i i i i i i i i i ]
+[nike invigor squadron blu] [nike men s air max invigor sneaker lifes] [golf golf i i i i i i i i i i i i i i   ]
+[nike free flyknit nsw    ] [nike free flyknit nsw new men s super li] [golf golf i i i i i i i i i i i i i i   ]
+[nike air flight huarache ] [nike air flight huarache low white mens ] [golf golf golf i i i i i i i i i i i i i]
+[nike jordan preschool    ] [nike air jordan 6 17 23 aqua pre school ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 182.06
+eval: perplexity 242.32
+eval: perplexity 188.81
+eval: perplexity 153.32
+global step 1474 learning rate 0.0115 step-time 0.69 perplexity 1.32
+results: 
+[nexus 6p folio case      ] [google nexus 6p folio case leather smart] [golf golf golf golf i i i i i i i i i i ]
+[ni mh sub c battery      ] [2 sub c 3300mah ni mh rechargeable batte] [golf golf i i i i i i i i i i i i i i   ]
+[nickels heel shoes black ] [nickel s penny loafer pumps faux black p] [golf golf golf i i i i i i i i i i i i i]
+[neymar size 1 cleats     ] [new nike hypervenom phantom gold soccer ] [golf golf golf i i i i i i i i i i i i i]
+[nhl jersey               ] [official nhl jersey pittsburgh penguins ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 125.45
+eval: perplexity 252.36
+eval: perplexity 260.48
+eval: perplexity 161.67
+global step 1494 learning rate 0.0110 step-time 0.70 perplexity 1.27
+results: 
+[oakley ess ice 2x        ] [oakley ess ice ballistic eyeshields tact] [golf golf golf i i i i i i i i i i i i i]
+[ocp sublimation inks     ] [sublimation inks sets for ricoh 3110dn 7] [golf golf i i i i i i i i i i i i i i   ]
+[obd tester               ] [i950 kleiner fiat alfa romeo obd werksta] [golf golf golf i i i i i i i i i i i i i]
+[oakley radarlock path gre] [new oakley radarlock path sunglasses fin] [golf golf golf i i i i i i i i i i i i i]
+[ocp sublimation inks     ] [sublimation inks sets for ricoh 3110dn 7] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 231.95
+eval: perplexity 229.40
+eval: perplexity 75.00
+eval: perplexity 154.50
+global step 1514 learning rate 0.0103 step-time 0.71 perplexity 1.34
+results: 
+[optimum nutrition pro gai] [optimum nutrition pro complex gainer 2.3] [golf golf i i i i i i i i i i i i i i   ]
+[orange golf umbrella     ] [golf umbrella 62 inch windproof large ov] [golf golf golf i i i i i i i i i i i i i]
+[orange county salutes ric] [orange county salutes richard nixon 1969] [golf golf i i i i i i i i i i i i i i   ]
+[orange terror            ] [orange terror 1000w amplifier head      ] [golf golf golf i i i i i i i i i i i i i]
+[orbit dolly              ] [digital juice orbit dolly               ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 162.52
+eval: perplexity 319.49
+eval: perplexity 179.04
+eval: perplexity 124.58
+global step 1534 learning rate 0.0101 step-time 0.69 perplexity 1.29
+results: 
+[pond heater              ] [elecro 3kw digital koi pond heater 240 v] [golf golf golf i i i i i i i i i i i i i]
+[pond heater              ] [koi pond heater                         ] [golf golf golf i i i i i i i i i i i i i]
+[pokemon center edition   ] [gameboy advance console pokemon center l] [golf golf golf i i i i i i i i i i i i i]
+[pool scupper             ] [qualarc crushed stone and fiberglass rom] [golf golf golf i i i i i i i i i i i i i]
+[polo ralph lauren cargo p] [ralph lauren polo chino 67 cargo pants o] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 188.15
+eval: perplexity 212.95
+eval: perplexity 162.52
+eval: perplexity 174.77
+global step 1554 learning rate 0.0097 step-time 0.70 perplexity 1.31
+results: 
+[patio day bed            ] [outdoor day bed patio garden furniture s] [golf golf golf i i i i i i i i i i i i i]
+[paul cardew coffee cup   ] [birds flowers butterfly paul cardew desi] [golf golf golf i i i i i i i i i i i i i]
+[patrington haven static c] [static carvan for sale                  ] [golf golf golf i i i i i i i i i i i i i]
+[paul jenkins             ] [paul jenkins invocation orb signed litho] [golf golf i i i i i i i i i i i i i i   ]
+[patio table and chair cov] [garden patio table and chair set protect] [golf golf golf golf i i i i i i i i i i ]
+eval: perplexity 241.34
+eval: perplexity 159.45
+eval: perplexity 155.94
+eval: perplexity 361.61
+global step 1574 learning rate 0.0092 step-time 0.70 perplexity 1.33
+results: 
+[plastic wrap sunglasses  ] [new khan designer men women rectangle wr] [golf golf golf i i i i i i i i i i i i i]
+[plastic wrap sunglasses  ] [x loop wrap sports sunglasses mens women] [golf golf golf i i i i i i i i i i i i i]
+[plastic wrap sunglasses  ] [x loop wrap sports sunglasses mens women] [golf golf golf i i i i i i i i i i i i i]
+[plastic headbands        ] [1cm wide plastic aliceband hair band tee] [golf golf golf i i i i i i i i i i i i i]
+[plastikote super clear se] [plastikote spray clear acrylic sealer pa] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 382.75
+eval: perplexity 208.35
+eval: perplexity 240.40
+eval: perplexity 277.59
+global step 1594 learning rate 0.0088 step-time 0.70 perplexity 1.31
+results: 
+[preval sprayer           ] [preval spray gun professional portable s] [golf golf golf i i i i i i i i i i i i i]
+[pressure washers         ] [4500psi professional pressure washer gun] [golf golf golf i i i i i i i i i i i i i]
+[pretty little lilly      ] [pretty little lilly and the magical nigh] [golf golf golf i i i i i i i i i i i i i]
+[preval sprayer           ] [preval ps portable spray gun            ] [golf golf golf i i i i i i i i i i i i i]
+[pressure washers         ] [ex demo powerplus 1900 watt 240v 135bar ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 213.66
+eval: perplexity 202.03
+eval: perplexity 269.35
+eval: perplexity 212.00
+global step 1614 learning rate 0.0084 step-time 0.70 perplexity 1.27
+results: 
+[ray ban mens             ] [rb4081 rayban wrap aviator              ] [golf golf golf golf i i i i i i i i i i ]
+[razer deathstalker       ] [new razer deathstalker ultimate gaming k] [golf golf i i i i i i i i i i i i i i   ]
+[raw correct shirt        ] [g star raw correct btd shirt hemd chemis] [golf golf golf i i i i i i i i i i i i i]
+[rc petrol monster truck  ] [sale shengqi v2 26cc 1 5th petrol rc mon] [golf golf golf i i i i i i i i i i i i i]
+[raw pre rolled cones king] [raw classic king size authentic pre roll] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 181.75
+eval: perplexity 193.10
+eval: perplexity 141.77
+eval: perplexity 322.00
+global step 1634 learning rate 0.0080 step-time 0.69 perplexity 1.31
+results: 
+[ray ban polarized aviator] [ray ban rb3497 004 83 59mm gunmetal brow] [golf golf golf golf i i i i i i i i i i ]
+[ray ban wood sunglasses  ] [new rayban wooden clubmaster sunglasses ] [golf golf golf i i i i i i i i i i i i i]
+[rayban aviators          ] [ray ban rb 3025 001 3k aviator sunglasse] [golf golf golf i i i i i i i i i i i i i]
+[ray ban gatsby round     ] [ray ban rb4256 710 71 gatsby tortoise go] [golf golf golf i i i i i i i i i i i i i]
+[raw green shorts         ] [surplus airborne shorts raw vintage carg] [golf golf golf golf i i i i i i i i i i ]
+eval: perplexity 176.49
+eval: perplexity 242.70
+eval: perplexity 219.41
+eval: perplexity 181.28
+global step 1654 learning rate 0.0076 step-time 0.70 perplexity 1.33
+results: 
+[roberto cavalli black    ] [roberto cavalli black by roberto cavalli] [golf golf golf i i i i i i i i i i i i i]
+[robin costume            ] [boys superhero trip costume set batman r] [golf golf golf i i i i i i i i i i i i i]
+[roberto cavalli black    ] [extra roberto cavalli black 50ml 100ml e] [golf golf golf i i i i i i i i i i i i i]
+[roberto cavalli red sun g] [roberto cavalli veronica rc 550 rc550 02] [golf golf i i i i i i i i i i i i i i   ]
+[robert palmer pride cd   ] [robert palmer pride 1983 cd cd isvg     ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 157.33
+eval: perplexity 392.45
+eval: perplexity 244.68
+eval: perplexity 239.92
+global step 1674 learning rate 0.0072 step-time 0.70 perplexity 1.29
+results: 
+[samsung galaxy s7        ] [samsung galaxy s7 edge smartphone 32gb g] [golf golf golf i i i i i i i i i i i i i]
+[samsung galaxy s7        ] [samsung galaxy s7 sm g930f unlocked 32gb] [golf golf golf i i i i i i i i i i i i i]
+[samsung galaxy s7        ] [samsung galaxy s7 edge sm g935 32gb gold] [golf golf golf i i i i i i i i i i i i i]
+[samsung galaxy s7        ] [samsung galaxy s7 duos 32gb unlocked gsm] [golf golf golf i i i i i i i i i i i i i]
+[samsung galaxy s7        ] [samsung galaxy s7 g930 32gb sim free unl] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 155.22
+eval: perplexity 189.02
+eval: perplexity 214.39
+eval: perplexity 151.10
+global step 1694 learning rate 0.0068 step-time 0.69 perplexity 1.26
+results: 
+[sofas                    ] [duresta sofa re upholstered             ] [golf golf golf i i i i i i i i i i i i i]
+[sofas                    ] [sofa hunter green leather 10 foot long c] [golf golf golf i i i i i i i i i i i i i]
+[solar pond fountain      ] [solar water panel power fountain pump ki] [golf golf golf i i i i i i i i i i i i i]
+[soft bristle car wash bru] [bristle soft brush car wash vehicle truc] [golf golf golf i i i i i i i i i i i i i]
+[sofas                    ] [barker and stonehouse 4 seater sofa rrp ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 197.94
+eval: perplexity 159.80
+eval: perplexity 177.16
+eval: perplexity 167.20
+global step 1714 learning rate 0.0064 step-time 0.68 perplexity 1.29
+results: 
+[samsonite black label vin] [samsonite black label vintage collection] [golf golf golf bag bag i i i i i i i i i]
+[samsonite voyager        ] [samsonite silhouette sphere 2 deluxe voy] [golf golf golf i i i i i i i i i i i i i]
+[sam adams utopias        ] [sam adams utopias 2015. box included    ] [golf golf i i i i i i i i i i i i i i   ]
+[sam adams utopias        ] [2015 sam adams utopias with box         ] [golf golf i i i i i i i i i i i i i i   ]
+[salvatore ferragamo parig] [salvatore ferragamo mens shoes gancio bi] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 124.37
+eval: perplexity 248.17
+eval: perplexity 220.18
+eval: perplexity 330.58
+global step 1734 learning rate 0.0060 step-time 0.69 perplexity 1.33
+results: 
+[saregeant hand planes    ] [vintage sargent hand plane no 408 for pa] [golf golf golf i i i i i i i i i i i i i]
+[satchel and page         ] [satchel and page briefcase              ] [golf golf golf i i i i i i i i i i i i i]
+[satfinder                ] [satellite finder hdtv digital sat finder] [golf golf golf i i i i i i i i i i i i i]
+[sat phone                ] [vintage nokia 6150 sat nsm 1ny collectib] [golf golf golf i i i i i i i i i i i i i]
+[satya necklace           ] [ rare satya jewelry turquoise blue facet] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 129.44
+eval: perplexity 240.77
+eval: perplexity 153.02
+eval: perplexity 216.36
+global step 1754 learning rate 0.0057 step-time 0.70 perplexity 1.30
+results: 
+[shoes light              ] [led light lace up luminous shoes sportsw] [golf golf golf i i i i i i i i i i i i i]
+[shoki                    ] [japan antique hanging scroll silk origin] [golf golf golf i i i i i i i i i i i i i]
+[shoes yeezy              ] [2016 mens yeezy boost trainers gym outdo] [golf golf golf i i i i i i i i i i i i i]
+[shoes yeezy              ] [mens yeezy boost trainers fitness gym sp] [golf golf golf i i i i i i i i i i i i i]
+[shoki                    ] [demon and shoki japanese repro woodblock] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 351.70
+eval: perplexity 331.41
+eval: perplexity 183.47
+eval: perplexity 211.28
+global step 1774 learning rate 0.0054 step-time 0.70 perplexity 1.29
+results: 
+[smith wesson handcuffs   ] [smith wesson chained handcuffs. m100 wit] [golf golf i i i i i i i i i i i i i i   ]
+[smart usb wall chargers  ] [22.5w 4.5a 3 port rapid usb wall desktop] [golf golf golf i i i i i i i i i i i i i]
+[smith wesson handcuffs   ] [real obsolete texas ranger badge groupin] [golf golf i i i i i i i i i i i i i i   ]
+[smart ups                ] [apc smart ups srt8kxli 8000w 8000va ente] [golf golf golf i i i i i i i i i i i i i]
+[smith wesson t shirt     ] [smith wesson t shirt                    ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 259.04
+eval: perplexity 259.54
+eval: perplexity 159.72
+eval: perplexity 355.03
+global step 1794 learning rate 0.0051 step-time 0.70 perplexity 1.31
+results: 
+[spiderman lot            ] [lot of action figures mini ninjas power ] [golf golf golf i i i i i i i i i i i i i]
+[spiderman lot            ] [1996 toy biz spider man series toy lot n] [golf golf golf i i i i i i i i i i i i i]
+[spiderman lot            ] [super hero squad comic book figure 1 2 m] [golf golf golf i i i i i i i i i i i i i]
+[spiderman lot            ] [lot of 2 spider man flying glow disc w 2] [golf golf golf i i i i i i i i i i i i i]
+[spiderman lot            ] [dc marvel comics pewter batman x men spi] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 193.62
+eval: perplexity 269.09
+eval: perplexity 170.12
+eval: perplexity 137.11
+global step 1814 learning rate 0.0049 step-time 0.71 perplexity 1.32
+results: 
+[stormcloud attack        ] [ataque stormcloud eldritch y la bestia g] [golf golf golf i i i i i i i i i i i i i]
+[storybook                ] [nwt storybook knits ramie blend kitty v ] [golf golf golf i i i i i i i i i i i i i]
+[storybook                ] [storybook knits sweater cardigan angels ] [golf golf golf i i i i i i i i i i i i i]
+[storm quickfire rapid spa] [cm storm quickfire rapid compact mechani] [golf golf i i i i i i i i i i i i i i   ]
+[stormcloud attack        ] [warhammer 40k stormcloud attack eldritch] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 184.36
+eval: perplexity 258.51
+eval: perplexity 219.89
+eval: perplexity 75.63
+global step 1834 learning rate 0.0046 step-time 0.69 perplexity 1.31
+results: 
+[suzuki sx4               ] [1996 suzuki x 90 base 2dr suv suv 2 door] [golf golf i i i i i i i i i i i i i i   ]
+[suzuki sx4               ] [2008 2009 suzuki sx4 direct fit catalyti] [golf golf i i i i i i i i i i i i i i   ]
+[suzuki sx4               ] [quarter panel glass window suzuki sx4 ri] [golf golf i i i i i i i i i i i i i i   ]
+[suzuki sx4               ] [engine piston ring set dnj pr532 fits 07] [golf golf i i i i i i i i i i i i i i   ]
+[suzuki sx4               ] [1996 suzuki x 90 base 2dr suv suv 2 door] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 99.94
+eval: perplexity 183.38
+eval: perplexity 292.14
+eval: perplexity 213.90
+global step 1854 learning rate 0.0045 step-time 0.70 perplexity 1.33
+results: 
+[terrible towel           ] [pittsburgh steelers terrible towel jerom] [golf golf golf i i i i i i i i i i i i i]
+[tesla lighter            ] [tesla coil lighterstm usb rechargeable w] [golf golf golf i i i i i i i i i i i i i]
+[tesla lighter            ] [tesla coil lighterstm usb rechargeable w] [golf golf golf i i i i i i i i i i i i i]
+[tf2 spy                  ] [team fortress 2 red spy only mask spande] [golf golf golf i i i i i i i i i i i i i]
+[tenor sax                ] [vintage conn tenor sax mouthpiece       ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 121.47
+eval: perplexity 165.68
+eval: perplexity 162.52
+eval: perplexity 204.74
+global step 1874 learning rate 0.0044 step-time 0.70 perplexity 1.30
+results: 
+[taylormade driver burner ] [taylormade mini aero burner tp 14dg driv] [golf golf golf i i i i i i i i i i i i i]
+[taylor swift signed guita] [taylor swift autographed limited edition] [golf golf golf i i i i i i i i i i i i i]
+[tc electronic delay      ] [tc electronic flashback delay guitar ped] [golf golf golf i i i i i i i i i i i i i]
+[taylormade driver burner ] [taylormade mini aero burner tp 14dg driv] [golf golf golf i i i i i i i i i i i i i]
+[teak wooden box          ] [wooden teak box handmade trinket storage] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 282.94
+eval: perplexity 120.33
+eval: perplexity 175.73
+eval: perplexity 176.79
+global step 1894 learning rate 0.0042 step-time 0.70 perplexity 1.26
+results: 
+[tim cox painting picture ] [tim cox ahead of the storm western cowbo] [golf golf golf i i i i i i i i i i i i i]
+[tile brick wet saw w stan] [tile saw 7 economy model w stand diamond] [golf golf golf bag i i i i i i i i i i i]
+[tiffany pocket watch     ] [women s tiffany gold hunter pocket watch] [golf golf golf i i i i i i i i i i i i i]
+[tiffany co. shopping bag ] [authentic preloved tiffany co. blue shop] [golf golf golf golf i i i i i i i i i i ]
+[tildon                   ] [tildon top size xsmall white sheer anthr] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 144.88
+eval: perplexity 342.27
+eval: perplexity 142.52
+eval: perplexity 131.59
+global step 1914 learning rate 0.0039 step-time 0.70 perplexity 1.29
+results: 
+[transformers emblem      ] [silver decepticon emblem transformers si] [golf golf golf i i i i i i i i i i i i i]
+[transformers g1 wheeljack] [wheeljack 100 complete 1984 vintage hasb] [golf golf i i i i i i i i i i i i i i   ]
+[transporter kombi        ] [volkswagen transporter t30 kombi swb 2.0] [golf golf i i i i i i i i i i i i i i   ]
+[transparent straps stealt] [women strapless transparent invisible se] [golf golf golf i i i i i i i i i i i i i]
+[transformers prime hardsh] [transformers legends cyberverse prime co] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 141.93
+eval: perplexity 187.97
+eval: perplexity 123.34
+eval: perplexity 138.12
+global step 1934 learning rate 0.0037 step-time 0.70 perplexity 1.30
+results: 
+[usb heart                ] [authentic pandora mother s day bound by ] [golf golf golf i i i i i i i i i i i i i]
+[usb floppy drive         ] [dell external usb floppy drive model fd ] [golf golf golf i i i i i i i i i i i i i]
+[usa made squier stratocas] [fender squier stratocaster usa          ] [golf golf golf i i i i i i i i i i i i i]
+[usa made squier stratocas] [rare 1989 fender usa made squier stratoc] [golf golf golf i i i i i i i i i i i i i]
+[usb clock                ] [usb fan de reloj con tubo flexible fresc] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 281.71
+eval: perplexity 258.84
+eval: perplexity 203.05
+eval: perplexity 244.52
+global step 1954 learning rate 0.0036 step-time 0.71 perplexity 1.25
+results: 
+[vw car seat covers       ] [2 black front vest t shirt car seat cove] [golf golf golf i i i i i i i i i i i i i]
+[vtg atq advertising penci] [6pc 3 vtg ink pen 3 autopoint mechanical] [golf golf i i i i i i i i i i i i i i   ]
+[vw lupo car mats         ] [vw lupo 1999 2005 rubber car mats with b] [golf golf golf i i i i i i i i i i i i i]
+[vw passat with fog lamps ] [fog lights driving lamps assy with bulbs] [golf golf golf golf i i i i i i i i i i ]
+[vw golf 7 gti navigation ] [7 car 8gb gps map navigator bluetooth dv] [golf golf bag i i i i i i i i i i i i i ]
+eval: perplexity 272.78
+eval: perplexity 128.16
+eval: perplexity 163.27
+eval: perplexity 206.83
+global step 1974 learning rate 0.0034 step-time 0.70 perplexity 1.34
+results: 
+[victoria secret macrame b] [victoria s secret macrame strappy bandea] [golf golf i i i i i i i i i i i i i i   ]
+[victsing vga to hdmi conv] [victsing vga to hdmi output 1080p hd aud] [golf golf golf i i i i i i i i i i i i i]
+[vibrating wireless       ] [20 frequency waterproof wireless remote ] [golf golf golf i i i i i i i i i i i i i]
+[victoria secret campus pa] [victorias secret pink skinny campus pant] [golf golf golf i i i i i i i i i i i i i]
+[vic firth isolation headp] [vic firth db22 isolation headphones musi] [golf i i i i i i i i i i i i i i i      ]
+eval: perplexity 432.48
+eval: perplexity 209.09
+eval: perplexity 195.39
+eval: perplexity 173.66
+global step 1994 learning rate 0.0032 step-time 0.70 perplexity 1.27
+results: 
+[vulcain                  ] [hamilton alarm cal 642 very rare vintage] [golf golf golf i i i i i i i i i i i i i]
+[vulcain                  ] [vulcain wrist watch for parts or repair ] [golf golf golf i i i i i i i i i i i i i]
+[vulcain                  ] [mens vintage vulcain cricket alarm wrist] [golf golf golf i i i i i i i i i i i i i]
+[vulcain                  ] [vintage estate mans gold vulcain 17 jewe] [golf golf golf i i i i i i i i i i i i i]
+[vulcain                  ] [vulcain exactomatic diver               ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 151.57
+eval: perplexity 196.17
+eval: perplexity 359.99
+eval: perplexity 315.00
+global step 2014 learning rate 0.0031 step-time 0.70 perplexity 1.32
+results: 
+[water feeder anti algae  ] [5 pcs bird drinker food feeder waterer a] [golf golf i i i i i i i i i i i i i i   ]
+[water trampoline         ] [aquaglide platinum rebound 16 bouncer sl] [golf golf golf i i i i i i i i i i i i i]
+[water infusers           ] [purple 800ml sports lemon juice flip lid] [golf golf i i i i i i i i i i i i i i   ]
+[water distributor kit    ] [dial mfg 4501 8 way water distributor ki] [golf golf golf i i i i i i i i i i i i i]
+[watchmen 3d blu ray lenti] [transformers age of extinction blu ray 3] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 239.67
+eval: perplexity 177.47
+eval: perplexity 150.69
+eval: perplexity 383.05
+global step 2034 learning rate 0.0029 step-time 0.71 perplexity 1.26
+results: 
+[wood effect vinyl floorin] [grey luxury vinyl flooring water resista] [golf golf golf i i i i i i i i i i i i i]
+[wonder woman samsung s6  ] [marvel superhero logo spatter for apple ] [golf golf golf i i i i i i i i i i i i i]
+[wood blinds grey         ] [made to measure deluxe grey with tapes w] [golf golf golf i i i i i i i i i i i i i]
+[wood turning lathe       ] [woodturning lathe tool rest base and res] [golf golf golf i i i i i i i i i i i i i]
+[wood plastic shed garden ] [12 x 10 21210                           ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 231.90
+eval: perplexity 121.29
+eval: perplexity 239.71
+eval: perplexity 184.84
+global step 2054 learning rate 0.0028 step-time 0.71 perplexity 1.24
+results: 
+[yamaha banshee brake ligh] [led crystal tail brake light for yamaha ] [golf golf golf golf i i i i i i i i i i ]
+[ys3f heater blower motor ] [saab 93 9 3 2002 2011 heater blower moto] [golf golf i i i i i i i i i i i i i i   ]
+[yamaha fz6 fazer s2      ] [yamaha fz6 fazer fairing upper part top ] [golf golf i i i i i i i i i i i i i i   ]
+[yamaha banshee brake ligh] [led crystal tail brake light for yamaha ] [golf golf golf golf i i i i i i i i i i ]
+[yamaha grips plug        ] [set yamaha bar ends grips plugs 18mm cnc] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 95.96
+eval: perplexity 318.62
+eval: perplexity 114.43
+eval: perplexity 243.55
+global step 2074 learning rate 0.0027 step-time 0.70 perplexity 1.21
+results: 
+[a1 tdi sline             ] [audi a1 1.6tdi 105ps 2011my s line sat n] [golf golf golf i i i i i i i i i i i i i]
+[a1 make it good          ] [ do133 a1 make it good 2002 cd          ] [golf golf golf i i i i i i i i i i i i i]
+[a c l nea chevroletsilver] [new ac suction 26 discharge line 10598 f] [i i i i i i i i i i i i i i i i         ]
+[a1 make it good          ] [a1 make it good cd                      ] [golf golf golf i i i i i i i i i i i i i]
+[a1 make it good          ] [a1 make it good                         ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 279.03
+eval: perplexity 163.16
+eval: perplexity 156.32
+eval: perplexity 271.74
+global step 2094 learning rate 0.0026 step-time 0.69 perplexity 1.19
+results: 
+[a7 navigation            ] [new ford lincoln a7 map sd navigation sy] [golf golf golf i i i i i i i i i i i i i]
+[a7 navigation            ] [a7 new 2016 map update navigation sd car] [golf golf golf i i i i i i i i i i i i i]
+[a8 game mp4              ] [new 4.3 inch video game console handheld] [golf golf i i i i i i i i i i i i i i   ]
+[a8 sveba                 ] [sale arecont vision sv eba a8 sveba elec] [golf golf i i i i i i i i i i i i i i   ]
+[a8 game mp4              ] [new 4.3 inch video game console handheld] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 215.41
+eval: perplexity 93.16
+eval: perplexity 114.70
+eval: perplexity 176.93
+global step 2114 learning rate 0.0025 step-time 0.69 perplexity 1.19
+results: 
+[abu revo                 ] [abu garcia revo s rv03 low profile baitc] [golf golf golf i i i i i i i i i i i i i]
+[abu revo                 ] [abu garcia revo 3                       ] [golf golf golf i i i i i i i i i i i i i]
+[abu revo                 ] [abu ambassadeur revo mgx lh linkshand ba] [golf golf golf i i i i i i i i i i i i i]
+[abu revo                 ] [abu revo stx 30 revo2stx30              ] [golf golf golf i i i i i i i i i i i i i]
+[abu revo                 ] [abu garcia revo rv03 s baitcast fishing ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 217.33
+eval: perplexity 297.69
+eval: perplexity 207.27
+eval: perplexity 109.96
+global step 2134 learning rate 0.0023 step-time 0.69 perplexity 1.32
+results: 
+[acer iconia charger      ] [1 amp uk mains charger adapter for acer ] [golf golf i i i i i i i i i i i i i i   ]
+[acer iconia tab 8 used   ] [oem acer iconia tab 8 a1 840 lcd flex   ] [golf i i i i i i i i i i i i i i i      ]
+[acer iconia charger      ] [genuine oem acer iconia tab a1 830 a1 81] [golf golf i i i i i i i i i i i i i i   ]
+[acer iconia tab 8 used   ] [oem acer iconia tab 8 a1 840 lcd flex   ] [golf i i i i i i i i i i i i i i i      ]
+[acer iconia charger      ] [for acer iconia tab a500 a501 a200 a100 ] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 138.99
+eval: perplexity 271.39
+eval: perplexity 219.55
+eval: perplexity 271.83
+global step 2154 learning rate 0.0021 step-time 0.70 perplexity 1.30
+results: 
+[action figure            ] [2016 novos figma 243 metal gear solid 2 ] [golf golf golf i i i i i i i i i i i i i]
+[action figure            ] [marvel legends lot                      ] [golf golf golf i i i i i i i i i i i i i]
+[action figure            ] [msh pre order receip medicom mafex harle] [golf golf golf i i i i i i i i i i i i i]
+[action figure            ] [bandai nations movie star wars realizati] [golf golf golf i i i i i i i i i i i i i]
+[action figure            ] [sideshow emma frost exclusive hellfire c] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 254.69
+eval: perplexity 249.64
+eval: perplexity 249.67
+eval: perplexity 296.30
+global step 2174 learning rate 0.0020 step-time 0.70 perplexity 1.27
+results: 
+[action figure            ] [tmnt leo s camo blitz cycle misb new ver] [golf golf golf i i i i i i i i i i i i i]
+[action figure            ] [6pcs marvel the avengers super hero hulk] [golf golf golf i i i i i i i i i i i i i]
+[action figure            ] [dc universe classics sinestro yellow var] [golf golf golf i i i i i i i i i i i i i]
+[action figure            ] [batman dc super heroes the joker action ] [golf golf golf i i i i i i i i i i i i i]
+[action figure            ] [star wars vintage 1977 all original pali] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 173.72
+eval: perplexity 249.76
+eval: perplexity 286.09
+eval: perplexity 204.47
+global step 2194 learning rate 0.0019 step-time 0.69 perplexity 1.26
+results: 
+[acura mdx key            ] [acura mdx rdx tl tsx remote key fob alar] [golf golf i i i i i i i i i i i i i i   ]
+[acura mdx key            ] [07 08 09 acura tl mdx keyless entry remo] [golf golf i i i i i i i i i i i i i i   ]
+[acura integra mugen      ] [mugen chip kit obd1 non vtec p05 p06 p27] [golf golf golf i i i i i i i i i i i i i]
+[acura integra interior   ] [new acc 94 01 acura integra carpet made ] [golf golf golf i i i i i i i i i i i i i]
+[acura legend hub cap     ] [acura center hub cap 1991 1995 legend in] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 174.39
+eval: perplexity 193.31
+eval: perplexity 249.51
+eval: perplexity 286.26
+global step 2214 learning rate 0.0017 step-time 0.68 perplexity 1.29
+results: 
+[adidas baseball cleats   ] [adidas poweralley 2 tpu baseball cleat s] [golf golf i i i i i i i i i i i i i i   ]
+[adidas baseball cleats   ] [nib adidas poweralley 2 metal low baseba] [golf golf i i i i i i i i i i i i i i   ]
+[adidas baseball cleats   ] [nuevo sin caja adidas b isbol color zapa] [golf golf i i i i i i i i i i i i i i   ]
+[adidas baseball cleats   ] [mens adidas power alley 3 metal baseball] [golf golf i i i i i i i i i i i i i i   ]
+[adidas baseball cleats   ] [adidas poweralley metal mid baseball cle] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 202.56
+eval: perplexity 212.81
+eval: perplexity 233.71
+eval: perplexity 257.16
+global step 2234 learning rate 0.0017 step-time 0.71 perplexity 1.34
+results: 
+[adidas spezial           ] [adidas originals m65 small spezial      ] [golf golf i i i i i i i i i i i i i i   ]
+[adidas spezial           ] [adidas originals trefoil wax jacket coat] [golf golf i i i i i i i i i i i i i i   ]
+[adidas spezial           ] [adidas originali spezial tg 42 42 2 3 44] [golf golf i i i i i i i i i i i i i i   ]
+[adidas spezial           ] [nib adidas originals spezial navy suede ] [golf golf i i i i i i i i i i i i i i   ]
+[adidas spezial           ] [adidas originals x spezial beckenbauer t] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 115.82
+eval: perplexity 122.55
+eval: perplexity 113.16
+eval: perplexity 117.78
+global step 2254 learning rate 0.0016 step-time 0.67 perplexity 1.34
+results: 
+[adidas spezial           ] [mens adidas originals spezial trainers. ] [golf golf i i i i i i i i i i i i i i   ]
+[adidas spezial           ] [adidas originals spezial mens trainers g] [golf golf i i i i i i i i i i i i i i   ]
+[adidas spezial           ] [adidas originals munchen spezial spzl br] [golf golf i i i i i i i i i i i i i i   ]
+[adidas spezial           ] [original adidas spezial turnschuhe sneak] [golf golf i i i i i i i i i i i i i i   ]
+[adidas spezial           ] [adidas munchen spezial uk7 7.5 8 8.5 9 9] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 110.26
+eval: perplexity 116.01
+eval: perplexity 123.76
+eval: perplexity 88.14
+global step 2274 learning rate 0.0016 step-time 0.69 perplexity 1.34
+results: 
+[adidas spezial           ] [adidas tobacco black gum uk 9 dublin spe] [golf golf i i i i i i i i i i i i i i   ]
+[adidas spezial           ] [adidas spezial                          ] [golf golf i i i i i i i i i i i i i i   ]
+[adidas spezial           ] [adidas spezial london dublin manchester ] [golf golf i i i i i i i i i i i i i i   ]
+[adidas spezial           ] [men s adidas zx 400 spzl uk7 blue spezia] [golf golf i i i i i i i i i i i i i i   ]
+[adidas spezial           ] [adidas spezial london dublin manchester ] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 81.97
+eval: perplexity 105.18
+eval: perplexity 98.02
+eval: perplexity 86.37
+global step 2294 learning rate 0.0015 step-time 0.67 perplexity 1.33
+results: 
+[adidas supercloud        ] [men s adidas supercloud duramo 7 black g] [golf golf i i i i i i i i i i i i i i   ]
+[adidas supercloud        ] [new men s adidas adissage supercloud sli] [golf golf i i i i i i i i i i i i i i   ]
+[adidas supercloud        ] [adidas men s adissage supercloud slides ] [golf golf i i i i i i i i i i i i i i   ]
+[adidas supercloud        ] [adidas supercloud plus slide w women ope] [golf golf i i i i i i i i i i i i i i   ]
+[adidas supercloud        ] [new men s adidas adissage supercloud sli] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 149.46
+eval: perplexity 263.46
+eval: perplexity 222.17
+eval: perplexity 218.26
+global step 2314 learning rate 0.0014 step-time 0.69 perplexity 1.27
+results: 
+[adidas vintage jacket    ] [adidas original rare vintage cool retro ] [golf golf golf i i i i i i i i i i i i i]
+[adidas vintage jacket    ] [adidas 80 s d50 w.germany               ] [golf golf golf i i i i i i i i i i i i i]
+[adidas vintage jacket    ] [adidas tracksuits jacket 26 pants made i] [golf golf golf i i i i i i i i i i i i i]
+[adidas vintage jacket    ] [adidas originals vintage green old schoo] [golf golf golf i i i i i i i i i i i i i]
+[adidas vintage jacket    ] [vintage 80 s 90s adidas track warmup tre] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 172.36
+eval: perplexity 259.77
+eval: perplexity 226.72
+eval: perplexity 256.85
+global step 2334 learning rate 0.0013 step-time 0.69 perplexity 1.24
+results: 
+[adidas women             ] [womens shoes by adidas on sale price red] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [nwt s adidas originals women moscow gold] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [adidas superstar size 9 womens          ] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [adidas by stella mccartney ultra boost w] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [adidas ultra boost uncaged rojo mujeres ] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 232.14
+eval: perplexity 272.16
+eval: perplexity 257.76
+eval: perplexity 250.79
+global step 2354 learning rate 0.0013 step-time 0.68 perplexity 1.31
+results: 
+[adidas women             ] [adidas originals stan smith w cf womens ] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [adidas orion mens 7 1 2 womens 8 8 1 2 m] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [women s adidas trackie                  ] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [adidas originals extaball up w superstar] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [adidas cosmic w cloudfoam pink white wom] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 260.46
+eval: perplexity 214.99
+eval: perplexity 257.41
+eval: perplexity 243.14
+global step 2374 learning rate 0.0012 step-time 0.71 perplexity 1.23
+results: 
+[adidas women             ] [womens adidas honey low trainers        ] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [size 8 adidas originals flower design 3 ] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [size 7.5 women s adidas sneakers shoes  ] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [adidas women s hoodie sweatshirt size me] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [women s gym fitness running bundle job l] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 264.17
+eval: perplexity 247.80
+eval: perplexity 256.11
+eval: perplexity 276.35
+global step 2394 learning rate 0.0011 step-time 0.70 perplexity 1.30
+results: 
+[adidas women             ] [new adidas women s lite racer black casu] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [women s adidas running shoes            ] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [new adidas women s tiro15 training pants] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [adidas zx flus copper black women       ] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [adidas superstar w women s shoes white c] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 260.93
+eval: perplexity 242.95
+eval: perplexity 253.85
+eval: perplexity 228.85
+global step 2414 learning rate 0.0010 step-time 0.70 perplexity 1.32
+results: 
+[adidas women             ] [adidas performance womens dance racerbac] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [new adidas women s size 5               ] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [nwt womens size s adidas tiro 15 trainin] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [adidas firebird tt originals jacket wome] [golf golf i i i i i i i i i i i i i i   ]
+[adidas women             ] [womens white pink adidas athletic shoe s] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 235.32
+eval: perplexity 244.55
+eval: perplexity 269.05
+eval: perplexity 204.98
+global step 2434 learning rate 0.0010 step-time 0.69 perplexity 1.28
+results: 
+[adidas x ronnie fieg     ] [adidas consortium x kith ronnie fieg tub] [i i i i i i i i i i i i i i i i         ]
+[adidas yeezy pirate black] [adidas yeezy boost 350 pirate black 2.0 ] [golf golf i i i i i i i i i i i i i i   ]
+[adidas y3 clothing       ] [mens adidas roland garros y3 tennis polo] [golf golf i i i i i i i i i i i i i i   ]
+[adidas yeezy pirate black] [adidas yeezy boost 350 oxford tan moonro] [golf golf i i i i i i i i i i i i i i   ]
+[adidas yeezy pirate black] [men s adidas yeezy boost 350 turtle dove] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 183.67
+eval: perplexity 237.57
+eval: perplexity 135.75
+eval: perplexity 328.91
+global step 2454 learning rate 0.0009 step-time 0.70 perplexity 1.29
+results: 
+[adult game               ] [monogamy adult board game for hot affair] [golf golf golf i i i i i i i i i i i i i]
+[adult mafia bikes        ] [job lot 12 used bikes adult ladies kids ] [golf golf i i i i i i i i i i i i i i   ]
+[adult male toys          ] [silicone oral sex doll realistic ass vag] [golf golf golf i i i i i i i i i i i i i]
+[adult life perserver     ] [adult boating sport buoyancy aid sailing] [golf golf i i i i i i i i i i i i i i   ]
+[adult male toys          ] [pipedream mini male man masturbator adul] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 279.43
+eval: perplexity 237.94
+eval: perplexity 242.65
+eval: perplexity 79.15
+global step 2474 learning rate 0.0009 step-time 0.67 perplexity 1.33
+results: 
+[afa snake eyes           ] [gi joe vintage snake eyes v2 loose afa 9] [golf golf golf i i i i i i i i i i i i i]
+[aerox mirror right       ] [motorcycle replacement yamaha yq50 aerox] [golf golf golf i i i i i i i i i i i i i]
+[aerosoles loafer 8       ] [aerosoles trip up new sz 8 m brown leath] [golf golf i i i i i i i i i i i i i i   ]
+[aesthetic t shirts       ] [men racerback aesthetic gym training sin] [golf golf i i i i i i i i i i i i i i   ]
+[afa potf coin            ] [star wars potf coin a wing pilot 63rd go] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 213.09
+eval: perplexity 124.79
+eval: perplexity 181.32
+eval: perplexity 201.00
+global step 2494 learning rate 0.0008 step-time 0.69 perplexity 1.29
+results: 
+[aiersi electro concert uk] [tanglewood union series tu3e electro aco] [golf i i i i i i i i i i i i i i i      ]
+[aifborne ewveryday       ] [airborne everyday vitamin c immune suppo] [golf golf i i i i i i i i i i i i i i   ]
+[aimpoint t1              ] [aimpoint micro t 1 w co witness mount ne] [golf golf i i i i i i i i i i i i i i   ]
+[aimpoint t1              ] [aimpoint micro t 1 2 moa larue lt 751 mo] [golf golf i i i i i i i i i i i i i i   ]
+[aichun hot chili slimming] [200ml aichun beauty hot chilli 26 ginger] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 246.39
+eval: perplexity 318.50
+eval: perplexity 220.80
+eval: perplexity 162.25
+global step 2514 learning rate 0.0008 step-time 0.71 perplexity 1.27
+results: 
+[air lift air bags        ] [air lift 50202 loadlifter 5000 replaceme] [golf golf golf i i i i i i i i i i i i i]
+[air lift air bags        ] [air lift 57396 loadlifter 5000 rear susp] [golf golf golf i i i i i i i i i i i i i]
+[air lift air bags        ] [air lift 2 pack dominator 2500 lbs air b] [golf golf golf i i i i i i i i i i i i i]
+[air lift air bags        ] [firestone ride rite air bag suspension h] [golf golf golf i i i i i i i i i i i i i]
+[air mattress children sin] [kids childrens inflatable safety flocked] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 244.28
+eval: perplexity 192.20
+eval: perplexity 143.74
+eval: perplexity 257.44
+global step 2534 learning rate 0.0007 step-time 0.71 perplexity 1.32
+results: 
+[airwaves chewing gum     ] [30 packets wrigley s airwaves chewing gu] [golf golf i i i i i i i i i i i i i i   ]
+[airwaves chewing gum     ] [10 packs wrigleys airwaves sugarfree che] [golf golf i i i i i i i i i i i i i i   ]
+[airwaves chewing gum     ] [wrigley s airwaves chewing gum extreme b] [golf golf i i i i i i i i i i i i i i   ]
+[airwaves chewing gum     ] [wrigleys airwaves blackcurrant flavour c] [golf golf i i i i i i i i i i i i i i   ]
+[airwaves chewing gum     ] [10 packs wrigleys airwaves sugarfree che] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 98.95
+eval: perplexity 119.67
+eval: perplexity 533.74
+eval: perplexity 193.37
+global step 2554 learning rate 0.0007 step-time 0.69 perplexity 1.34
+results: 
+[alarm watch              ] [shark led digital date day men stainless] [golf golf golf i i i i i i i i i i i i i]
+[alarm watch              ] [shark led digital date day men stainless] [golf golf golf i i i i i i i i i i i i i]
+[alarm watch              ] [waterproof mens digital led quartz alarm] [golf golf golf i i i i i i i i i i i i i]
+[alarm watch              ] [new popular women s men s unisex led dig] [golf golf golf i i i i i i i i i i i i i]
+[alarm watch              ] [waterproof children boy digital led quar] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 218.37
+eval: perplexity 118.25
+eval: perplexity 322.23
+eval: perplexity 199.58
+global step 2574 learning rate 0.0006 step-time 0.69 perplexity 1.34
+results: 
+[alex dryden              ] [anna rensikov the blind spy 3 by alex dr] [golf golf i i i i i i i i i i i i i i   ]
+[alex morgan leaf         ] [2013 leaf sports heroes alex morgan auto] [golf golf golf i i i i i i i i i i i i i]
+[alex evening l           ] [new alex evenings purple mauve womens la] [golf golf golf i i i i i i i i i i i i i]
+[alex bregman mini helmet ] [alex bregman signed houston astros mini ] [golf golf i i i i i i i i i i i i i i   ]
+[alex bregman auto relic  ] [2015 leaf alex bregman auto. ba ab1     ] [golf golf i i i i i i i i i i i i i i   ]
+eval: perplexity 141.51
+eval: perplexity 261.39
+eval: perplexity 291.17
+eval: perplexity 276.83
+global step 2594 learning rate 0.0006 step-time 0.70 perplexity 1.22
+results: 
+[alexander mcqueen        ] [alexander mcqueen clutch bag with gold s] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [iconic most wanted designed by late alex] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [alexander mcqueen skull swarovski charm ] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [alexander mcqueen runway peplum blouse  ] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [alexander mcqueen nude patterned top uk ] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 269.52
+eval: perplexity 320.56
+eval: perplexity 283.36
+eval: perplexity 272.37
+global step 2614 learning rate 0.0006 step-time 0.68 perplexity 1.34
+results: 
+[alexander mcqueen        ] [alexander mcqueen mcq tartan biker jacke] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [great alexander mcqueen mcq t shirt skul] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [alexander mcqueen mens pink shirt with g] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [alexander mcqueen vest patent leather pv] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [alexander mcqueen book exclusive england] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 276.97
+eval: perplexity 335.25
+eval: perplexity 260.31
+eval: perplexity 301.50
+global step 2634 learning rate 0.0006 step-time 0.66 perplexity 1.31
+results: 
+[alexander mcqueen        ] [mcq alexander mcqueen white mcq print ta] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [alexander mcqueen red crepe jersey fish ] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [alexander mcqueen runway black cold shou] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [mcq alexander mcqueen black top tank sle] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [alexander mcqueen men s trousers limited] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 256.34
+eval: perplexity 275.02
+eval: perplexity 307.78
+eval: perplexity 251.28
+global step 2654 learning rate 0.0005 step-time 0.69 perplexity 1.29
+results: 
+[alexander mcqueen        ] [100 authentic alexander mcqueen mcq razo] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [ 395 ss2016 alexander mcqueen mcq front ] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [bnwt alexander mcqueen t shirt m        ] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [alexander mcqueen cocktail ring         ] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [mcq alexander mcqueen printed floral pat] [golf golf golf i i i i i i i i i i i i i]
+eval: perplexity 283.04
+eval: perplexity 348.93
+eval: perplexity 250.20
+eval: perplexity 304.00
+global step 2674 learning rate 0.0005 step-time 0.72 perplexity 1.27
+results: 
+[alexander mcqueen        ] [alexander mcqueen vest patent leather pv] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [ 3k alexander mcqueen tribal bead embell] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [ 525 mqueen 10                          ] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [dark drama alexander mcqueen 1500 black ] [golf golf golf i i i i i i i i i i i i i]
+[alexander mcqueen        ] [alexander mcqueen men s black scull t sh] [golf go
